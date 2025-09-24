@@ -3514,3 +3514,456 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.24-17.06.42:334][601]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.24-17.06.42:334][601]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.24-17.06.42:334][601]AssetCheck: /Game/CoverageSys/Blueprints/BP_CoverageVolume Validating asset
+[2025.09.24-17.07.20:824][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.24-17.07.21:855][930]LogSlate: Window 'Save Content' being destroyed
+[2025.09.24-17.07.21:862][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-17.07.21:902][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.09.24-17.07.21:907][930]LogSavePackage: Moving output files for package: /Game/CoverageSys/CoverageTest
+[2025.09.24-17.07.21:908][930]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/CoverageTest70EA83094B0BB55C0351879D63B4DE42.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/CoverageTest.umap'
+[2025.09.24-17.07.21:912][930]LogFileHelpers: Saving map 'CoverageTest' took 0.029
+[2025.09.24-17.07.21:944][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.776 ms (total: 2.83 sec)
+[2025.09.24-17.07.21:944][930]LogStreaming: Display: FlushAsyncLoading(771): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.24-17.07.21:949][930]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.24-17.07.21:949][930]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.09.24-17.07.21:949][930]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.24-17.07.21:949][930]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.24-17.07.21:965][930]LogWorldPartition: Display: WorldPartition initialize took 15.950 ms (total: 238.166 ms)
+[2025.09.24-17.07.21:966][930]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.09.24-17.07.21:966][930]Cmd: MAP LOAD FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.24-17.07.22:009][930]LogWorld: UWorld::CleanupWorld for CoverageTest, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-17.07.22:009][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-17.07.22:023][930]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.24-17.07.22:024][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.24-17.07.22:026][930]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-17.07.22:026][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-17.07.22:026][930]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.09.24-17.07.22:040][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.09.24-17.07.22:052][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.09.24-17.07.22:057][930]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2025.09.24-17.07.22:058][930]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.24-17.07.22:059][930]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.09.24-17.07.22:059][930]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.24-17.07.22:059][930]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.24-17.07.22:075][930]LogWorldPartition: Display: WorldPartition initialize took 15.501 ms (total: 253.667 ms)
+[2025.09.24-17.07.22:101][930]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.24-17.07.22:113][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.09.24-17.07.22:118][930]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.24-17.07.22:118][930]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.375ms to complete.
+[2025.09.24-17.07.22:155][930]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-17.07.22:155][930]LogContentValidation: Enabled validators:
+[2025.09.24-17.07.22:155][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-17.07.22:155][930]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-17.07.22:155][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-17.07.22:155][930]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-17.07.22:155][930]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-17.07.22:155][930]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-17.07.29:534][763]Cmd: EDIT COPY
+[2025.09.24-17.07.32:337][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.09.24-17.07.32:340][ 95]LogStreaming: Display: FlushAsyncLoading(863): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.24-17.07.32:343][ 95]LogChaosDD: Creating Chaos Debug Draw Scene for world CoverageTest
+[2025.09.24-17.07.32:345][ 95]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CoverageSys/CoverageTest.CoverageTest
+[2025.09.24-17.07.32:345][ 95]Cmd: MAP LOAD FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/CoverageTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.24-17.07.32:400][ 95]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-17.07.32:400][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-17.07.32:400][ 95]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.09.24-17.07.32:413][ 95]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.24-17.07.32:415][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.09.24-17.07.32:417][ 95]LogWorld: UWorld::CleanupWorld for CoverageTest, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-17.07.32:417][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-17.07.32:431][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.09.24-17.07.32:464][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.09.24-17.07.32:467][ 95]LogAudio: Display: Audio Device (ID: 1) registered with world 'CoverageTest'.
+[2025.09.24-17.07.32:467][ 95]LogChaosDD: Creating Chaos Debug Draw Scene for world CoverageTest
+[2025.09.24-17.07.32:485][ 95]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.24-17.07.32:498][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.09.24-17.07.32:503][ 95]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.24-17.07.32:503][ 95]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.038ms to complete.
+[2025.09.24-17.07.36:921][595]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.24-17.07.38:712][808]Cmd: DELETE
+[2025.09.24-17.07.38:712][808]Cmd: ACTOR DELETE
+[2025.09.24-17.07.38:713][808]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-17.07.38:722][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.09.24-17.07.38:728][808]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.09.24-17.07.39:179][859]Cmd: EDIT PASTE
+[2025.09.24-17.07.53:312][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-17.07.53:350][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.09.24-17.07.53:356][479]LogSavePackage: Moving output files for package: /Game/CoverageSys/CoverageTest
+[2025.09.24-17.07.53:356][479]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/CoverageTestEE05ADEC471F761CD31537930B8C98E6.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/CoverageTest.umap'
+[2025.09.24-17.07.53:362][479]LogFileHelpers: Saving map 'CoverageTest' took 0.029
+[2025.09.24-17.07.53:368][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.496 ms (total: 2.89 sec)
+[2025.09.24-17.07.53:388][479]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-17.07.53:388][479]LogContentValidation: Enabled validators:
+[2025.09.24-17.07.53:388][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-17.07.53:388][479]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-17.07.53:389][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-17.07.53:389][479]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-17.07.53:389][479]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-17.07.53:389][479]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-17.07.53:389][479]AssetCheck: /Game/CoverageSys/CoverageTest Validating asset
+[2025.09.24-17.07.59:212][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-17.07.59:248][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.09.24-17.07.59:254][113]LogSavePackage: Moving output files for package: /Game/CoverageSys/CoverageTest
+[2025.09.24-17.07.59:254][113]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/CoverageTest017DCEB74D8DA9A1F4B2C49B3528F4BD.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/CoverageTest.umap'
+[2025.09.24-17.07.59:260][113]LogFileHelpers: Saving map 'CoverageTest' took 0.027
+[2025.09.24-17.07.59:266][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.534 ms (total: 2.94 sec)
+[2025.09.24-17.07.59:288][113]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-17.07.59:288][113]LogContentValidation: Enabled validators:
+[2025.09.24-17.07.59:288][113]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-17.07.59:288][113]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-17.07.59:288][113]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-17.07.59:288][113]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-17.07.59:288][113]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-17.07.59:288][113]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-17.07.59:288][113]AssetCheck: /Game/CoverageSys/CoverageTest Validating asset
+[2025.09.24-17.10.15:783][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.24-17.10.15:839][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-17.10.15:855][117]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CoverageSys/Blueprints/BP_CoverageManager] ([2] browsable assets)...
+[2025.09.24-17.10.15:856][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/CoverageSys/Blueprints/BP_CoverageManager]
+[2025.09.24-17.10.15:863][117]LogSavePackage: Moving output files for package: /Game/CoverageSys/Blueprints/BP_CoverageManager
+[2025.09.24-17.10.15:863][117]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_CoverageManager4472290043C66427DB5D9B8CFCF99319.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/Blueprints/BP_CoverageManager.uasset'
+[2025.09.24-17.10.15:869][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.669 ms (total: 2.97 sec)
+[2025.09.24-17.10.15:895][117]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-17.10.15:895][117]LogContentValidation: Enabled validators:
+[2025.09.24-17.10.15:895][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-17.10.15:895][117]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-17.10.15:895][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-17.10.15:895][117]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-17.10.15:895][117]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-17.10.15:895][117]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-17.10.15:895][117]AssetCheck: /Game/CoverageSys/Blueprints/BP_CoverageManager Validating asset
+[2025.09.24-17.10.16:211][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-17.10.16:233][146]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CoverageSys/Blueprints/BP_CoverageManager] ([2] browsable assets)...
+[2025.09.24-17.10.16:233][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/CoverageSys/Blueprints/BP_CoverageManager]
+[2025.09.24-17.10.16:240][146]LogSavePackage: Moving output files for package: /Game/CoverageSys/Blueprints/BP_CoverageManager
+[2025.09.24-17.10.16:241][146]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_CoverageManager2A8005394E23A12EB8E2FBAD44D9D6A1.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/Blueprints/BP_CoverageManager.uasset'
+[2025.09.24-17.10.16:247][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.774 ms (total: 3.00 sec)
+[2025.09.24-17.10.16:271][146]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-17.10.16:271][146]LogContentValidation: Enabled validators:
+[2025.09.24-17.10.16:272][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-17.10.16:272][146]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-17.10.16:272][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-17.10.16:272][146]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-17.10.16:272][146]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-17.10.16:272][146]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-17.10.16:272][146]AssetCheck: /Game/CoverageSys/Blueprints/BP_CoverageManager Validating asset
+[2025.09.24-17.10.25:709][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-17.10.25:733][278]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CoverageSys/Blueprints/BP_CoverageManager] ([2] browsable assets)...
+[2025.09.24-17.10.25:733][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/CoverageSys/Blueprints/BP_CoverageManager]
+[2025.09.24-17.10.25:740][278]LogSavePackage: Moving output files for package: /Game/CoverageSys/Blueprints/BP_CoverageManager
+[2025.09.24-17.10.25:741][278]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_CoverageManager01EAC7A64AE094DDCB0BDBA0B75D2228.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/Blueprints/BP_CoverageManager.uasset'
+[2025.09.24-17.10.25:747][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.510 ms (total: 3.04 sec)
+[2025.09.24-17.10.25:772][278]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-17.10.25:772][278]LogContentValidation: Enabled validators:
+[2025.09.24-17.10.25:772][278]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-17.10.25:772][278]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-17.10.25:772][278]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-17.10.25:772][278]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-17.10.25:772][278]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-17.10.25:772][278]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-17.10.25:772][278]AssetCheck: /Game/CoverageSys/Blueprints/BP_CoverageManager Validating asset
+[2025.09.24-17.10.27:435][473]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.24-17.10.27:442][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.24-17.10.27:479][473]LogPlayLevel: Creating play world package: /Game/CoverageSys/UEDPIE_0_CoverageTest
+[2025.09.24-17.10.27:480][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001287s)
+[2025.09.24-17.10.27:480][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CoverageSys/CoverageTest.CoverageTest to /Game/CoverageSys/UEDPIE_0_CoverageTest.CoverageTest (0.001313s)
+[2025.09.24-17.10.27:489][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.24-17.10.27:492][473]LogChaosDD: Creating Chaos Debug Draw Scene for world CoverageTest
+[2025.09.24-17.10.27:493][473]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2025.09.24-17.10.27:494][473]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.24-17.10.27:494][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.24-17.10.27:494][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.24-17.10.27:494][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.24-17.10.27:494][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.24-17.10.27:494][473]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.24-17.10.27:494][473]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.24-17.10.27:494][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.24-17.10.27:494][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.24-17.10.27:494][473]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.24-17.10.27:494][473]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.24-17.10.27:494][473]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.24-17.10.27:496][473]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.24-17.10.27:509][473]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (2- INZONE H5 - Game)
+[2025.09.24-17.10.27:509][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.24-17.10.27:509][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.24-17.10.27:509][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.24-17.10.27:510][473]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.24-17.10.27:510][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2025.09.24-17.10.27:511][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.24-17.10.27:511][473]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.24-17.10.27:511][473]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.24-17.10.27:511][473]LogAudio: Display: Audio Device (ID: 3) registered with world 'CoverageTest'.
+[2025.09.24-17.10.27:511][473]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.24-17.10.27:513][473]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.09.24-17.10.27:513][473]LogWorld: Bringing World /Game/CoverageSys/UEDPIE_0_CoverageTest.CoverageTest up for play (max tick rate 0) at 2025.09.24-13.10.27
+[2025.09.24-17.10.27:513][473]LogWorld: Bringing up level for play took: 0.000499
+[2025.09.24-17.10.27:515][473]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.09.24-17.10.27:522][473]PIE: Server logged in
+[2025.09.24-17.10.27:522][473]PIE: Play in editor total start time 0.085 seconds.
+[2025.09.24-17.10.33:229][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-17.10.33:229][149]LogWorld: BeginTearingDown for /Game/CoverageSys/UEDPIE_0_CoverageTest
+[2025.09.24-17.10.33:229][149]LogWorld: UWorld::CleanupWorld for CoverageTest, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-17.10.33:229][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-17.10.33:234][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.24-17.10.33:236][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-17.10.33:244][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-17.10.33:244][149]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.24-17.10.33:244][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.24-17.10.33:246][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.24-17.10.33:251][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.24-17.10.33:326][151]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.09.24-17.10.59:901][208]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 47094.046875
+[2025.09.24-17.10.59:975][217]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.24-17.10.59:975][217]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47094.109375, Update Interval: 358.439880
+[2025.09.24-17.11.16:895][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-17.11.16:924][243]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/WBP_CoverageHUD] ([2] browsable assets)...
+[2025.09.24-17.11.16:928][243]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/WBP_CoverageHUD.WBP_CoverageHUD]
+[2025.09.24-17.11.16:928][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/WBP_CoverageHUD]
+[2025.09.24-17.11.16:928][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/WBP_CoverageHUD" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/WBP_CoverageHUD.uasset" SILENT=true
+[2025.09.24-17.11.16:932][243]LogSavePackage: Moving output files for package: /Game/GUI/WBP_CoverageHUD
+[2025.09.24-17.11.16:932][243]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/WBP_CoverageHUD973EC8884DB659DD994DFF816F7448BB.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/WBP_CoverageHUD.uasset'
+[2025.09.24-17.11.16:939][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.889 ms (total: 3.09 sec)
+[2025.09.24-17.11.16:966][243]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-17.11.16:966][243]LogContentValidation: Enabled validators:
+[2025.09.24-17.11.16:966][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-17.11.16:966][243]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-17.11.16:966][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-17.11.16:966][243]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-17.11.16:966][243]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-17.11.16:966][243]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-17.11.16:969][243]AssetCheck: /Game/GUI/WBP_CoverageHUD Validating asset
+[2025.09.24-17.11.18:356][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.09.24-17.11.18:977][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-17.11.19:000][436]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/WBP_CoverageHUD] ([2] browsable assets)...
+[2025.09.24-17.11.19:003][436]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/WBP_CoverageHUD.WBP_CoverageHUD]
+[2025.09.24-17.11.19:003][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/WBP_CoverageHUD]
+[2025.09.24-17.11.19:003][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/WBP_CoverageHUD" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/WBP_CoverageHUD.uasset" SILENT=true
+[2025.09.24-17.11.19:007][436]LogSavePackage: Moving output files for package: /Game/GUI/WBP_CoverageHUD
+[2025.09.24-17.11.19:007][436]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/WBP_CoverageHUD7A68561547557C2902AD3B83E4B340BF.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/WBP_CoverageHUD.uasset'
+[2025.09.24-17.11.19:013][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.941 ms (total: 3.12 sec)
+[2025.09.24-17.11.19:032][436]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-17.11.19:032][436]LogContentValidation: Enabled validators:
+[2025.09.24-17.11.19:032][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-17.11.19:032][436]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-17.11.19:032][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-17.11.19:032][436]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-17.11.19:032][436]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-17.11.19:032][436]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-17.11.19:035][436]AssetCheck: /Game/GUI/WBP_CoverageHUD Validating asset
+[2025.09.24-17.13.42:221][276]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\GUI\WBP_CoverageHUD.uasset: [Compiler] Binding: Property ' /Script/UMG.ProgressBar:PercentDelegate ' on Widget ' PB_Clean ': Member:Get_PB_Clean_Percent Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2025.09.24-17.13.42:426][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.09.24-17.13.42:492][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-17.13.42:517][276]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/WBP_CoverageHUD] ([2] browsable assets)...
+[2025.09.24-17.13.42:522][276]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/WBP_CoverageHUD.WBP_CoverageHUD]
+[2025.09.24-17.13.42:522][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/WBP_CoverageHUD]
+[2025.09.24-17.13.42:522][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/WBP_CoverageHUD" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/WBP_CoverageHUD.uasset" SILENT=true
+[2025.09.24-17.13.42:529][276]LogSavePackage: Moving output files for package: /Game/GUI/WBP_CoverageHUD
+[2025.09.24-17.13.42:529][276]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/WBP_CoverageHUD73FDD4E7417D031A433D8CB7FCA00FBA.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/WBP_CoverageHUD.uasset'
+[2025.09.24-17.13.42:534][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.109 ms (total: 3.16 sec)
+[2025.09.24-17.13.42:560][276]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-17.13.42:560][276]LogContentValidation: Enabled validators:
+[2025.09.24-17.13.42:560][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-17.13.42:560][276]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-17.13.42:560][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-17.13.42:560][276]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-17.13.42:561][276]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-17.13.42:561][276]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-17.13.42:563][276]AssetCheck: /Game/GUI/WBP_CoverageHUD Validating asset
+[2025.09.24-17.13.46:231][709]LogEditorTransaction: Undo Rename Parameter
+[2025.09.24-17.13.46:579][727]LogEditorTransaction: Undo Add In Parameter
+[2025.09.24-17.13.46:826][745]LogEditorTransaction: Undo Change Parameter Type
+[2025.09.24-17.13.47:031][766]LogEditorTransaction: Undo Rename Parameter
+[2025.09.24-17.13.47:262][790]LogEditorTransaction: Undo Add In Parameter
+[2025.09.24-17.13.47:467][811]LogEditorTransaction: Undo Create Pin Link
+[2025.09.24-17.13.47:729][839]LogEditorTransaction: Undo Create Pin Link
+[2025.09.24-17.13.47:991][867]LogEditorTransaction: Undo Rename Parameter
+[2025.09.24-17.13.48:213][890]LogEditorTransaction: Undo Add In Parameter
+[2025.09.24-17.13.48:436][913]LogEditorTransaction: Undo Move Node
+[2025.09.24-17.13.48:699][941]LogEditorTransaction: Undo Create Pin Link
+[2025.09.24-17.13.49:011][975]LogEditorTransaction: Undo Create Pin Link
+[2025.09.24-17.13.49:247][  0]LogEditorTransaction: Undo Create Pin Link
+[2025.09.24-17.13.49:458][ 22]LogEditorTransaction: Undo Move Nodes
+[2025.09.24-17.13.49:652][ 42]LogEditorTransaction: Undo Paste clipboard contents
+[2025.09.24-17.15.57:890][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.24-17.15.57:954][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-17.15.57:979][339]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/WBP_CoverageHUD] ([2] browsable assets)...
+[2025.09.24-17.15.57:983][339]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/WBP_CoverageHUD.WBP_CoverageHUD]
+[2025.09.24-17.15.57:983][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/WBP_CoverageHUD]
+[2025.09.24-17.15.57:983][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/WBP_CoverageHUD" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/WBP_CoverageHUD.uasset" SILENT=true
+[2025.09.24-17.15.57:987][339]LogSavePackage: Moving output files for package: /Game/GUI/WBP_CoverageHUD
+[2025.09.24-17.15.57:987][339]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/WBP_CoverageHUDD593006C4A0AF4D71D7FBD9C03438352.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/WBP_CoverageHUD.uasset'
+[2025.09.24-17.15.57:994][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.466 ms (total: 3.20 sec)
+[2025.09.24-17.15.58:016][339]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-17.15.58:016][339]LogContentValidation: Enabled validators:
+[2025.09.24-17.15.58:016][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-17.15.58:016][339]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-17.15.58:016][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-17.15.58:016][339]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-17.15.58:016][339]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-17.15.58:016][339]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-17.15.58:019][339]AssetCheck: /Game/GUI/WBP_CoverageHUD Validating asset
+[2025.09.24-17.15.58:513][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-17.15.58:532][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/WBP_CoverageHUD] ([2] browsable assets)...
+[2025.09.24-17.15.58:532][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/WBP_CoverageHUD]
+[2025.09.24-17.15.58:532][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/WBP_CoverageHUD" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/WBP_CoverageHUD.uasset" SILENT=true
+[2025.09.24-17.15.58:536][390]LogSavePackage: Moving output files for package: /Game/GUI/WBP_CoverageHUD
+[2025.09.24-17.15.58:537][390]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/WBP_CoverageHUD580866F743303298BFE182A59B5A1589.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/WBP_CoverageHUD.uasset'
+[2025.09.24-17.15.58:543][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.233 ms (total: 3.23 sec)
+[2025.09.24-17.15.58:566][390]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-17.15.58:566][390]LogContentValidation: Enabled validators:
+[2025.09.24-17.15.58:566][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-17.15.58:566][390]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-17.15.58:566][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-17.15.58:566][390]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-17.15.58:566][390]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-17.15.58:566][390]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-17.15.58:569][390]AssetCheck: /Game/GUI/WBP_CoverageHUD Validating asset
+[2025.09.24-17.17.08:331][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.09.24-17.17.08:394][689]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-17.17.08:411][689]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CoverageSys/Blueprints/BP_CoverageManager] ([2] browsable assets)...
+[2025.09.24-17.17.08:411][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/CoverageSys/Blueprints/BP_CoverageManager]
+[2025.09.24-17.17.08:419][689]LogSavePackage: Moving output files for package: /Game/CoverageSys/Blueprints/BP_CoverageManager
+[2025.09.24-17.17.08:419][689]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_CoverageManager7149DBDB44A9ECC6841B63BB0AF272F5.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/Blueprints/BP_CoverageManager.uasset'
+[2025.09.24-17.17.08:426][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.759 ms (total: 3.27 sec)
+[2025.09.24-17.17.08:445][689]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-17.17.08:445][689]LogContentValidation: Enabled validators:
+[2025.09.24-17.17.08:445][689]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-17.17.08:445][689]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-17.17.08:445][689]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-17.17.08:445][689]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-17.17.08:445][689]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-17.17.08:445][689]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-17.17.08:445][689]AssetCheck: /Game/CoverageSys/Blueprints/BP_CoverageManager Validating asset
+[2025.09.24-17.17.09:049][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-17.17.09:068][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CoverageSys/Blueprints/BP_CoverageManager] ([2] browsable assets)...
+[2025.09.24-17.17.09:068][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/CoverageSys/Blueprints/BP_CoverageManager]
+[2025.09.24-17.17.09:077][751]LogSavePackage: Moving output files for package: /Game/CoverageSys/Blueprints/BP_CoverageManager
+[2025.09.24-17.17.09:078][751]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_CoverageManager7ECAD55548FB93B8DBDC7B998FBA746F.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/Blueprints/BP_CoverageManager.uasset'
+[2025.09.24-17.17.09:084][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.702 ms (total: 3.30 sec)
+[2025.09.24-17.17.09:112][751]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-17.17.09:112][751]LogContentValidation: Enabled validators:
+[2025.09.24-17.17.09:112][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-17.17.09:112][751]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-17.17.09:112][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-17.17.09:112][751]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-17.17.09:112][751]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-17.17.09:112][751]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-17.17.09:112][751]AssetCheck: /Game/CoverageSys/Blueprints/BP_CoverageManager Validating asset
+[2025.09.24-17.17.10:071][844]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.24-17.17.10:075][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.24-17.17.10:098][844]LogPlayLevel: Creating play world package: /Game/CoverageSys/UEDPIE_0_CoverageTest
+[2025.09.24-17.17.10:100][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001275s)
+[2025.09.24-17.17.10:100][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CoverageSys/CoverageTest.CoverageTest to /Game/CoverageSys/UEDPIE_0_CoverageTest.CoverageTest (0.001306s)
+[2025.09.24-17.17.10:110][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.24-17.17.10:115][844]LogChaosDD: Creating Chaos Debug Draw Scene for world CoverageTest
+[2025.09.24-17.17.10:116][844]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2025.09.24-17.17.10:117][844]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.09.24-17.17.10:117][844]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.24-17.17.10:117][844]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.24-17.17.10:117][844]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.24-17.17.10:117][844]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.24-17.17.10:117][844]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.24-17.17.10:117][844]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.24-17.17.10:117][844]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.24-17.17.10:117][844]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.24-17.17.10:117][844]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.24-17.17.10:117][844]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.24-17.17.10:117][844]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.24-17.17.10:118][844]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.24-17.17.10:128][844]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (2- INZONE H5 - Game)
+[2025.09.24-17.17.10:130][844]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.24-17.17.10:130][844]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.24-17.17.10:130][844]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.24-17.17.10:130][844]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.09.24-17.17.10:130][844]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2025.09.24-17.17.10:132][844]LogInit: FAudioDevice initialized with ID 4.
+[2025.09.24-17.17.10:132][844]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.09.24-17.17.10:132][844]LogAudio: Display: Audio Device (ID: 4) registered with world 'CoverageTest'.
+[2025.09.24-17.17.10:132][844]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.09.24-17.17.10:132][844]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.24-17.17.10:134][844]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.09.24-17.17.10:134][844]LogWorld: Bringing World /Game/CoverageSys/UEDPIE_0_CoverageTest.CoverageTest up for play (max tick rate 0) at 2025.09.24-13.17.10
+[2025.09.24-17.17.10:134][844]LogWorld: Bringing up level for play took: 0.000486
+[2025.09.24-17.17.10:136][844]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.09.24-17.17.10:142][844]PIE: Server logged in
+[2025.09.24-17.17.10:142][844]PIE: Play in editor total start time 0.067 seconds.
+[2025.09.24-17.17.16:639][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-17.17.16:639][615]LogWorld: BeginTearingDown for /Game/CoverageSys/UEDPIE_0_CoverageTest
+[2025.09.24-17.17.16:639][615]LogWorld: UWorld::CleanupWorld for CoverageTest, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-17.17.16:640][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-17.17.16:646][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.24-17.17.16:648][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-17.17.16:656][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-17.17.16:657][615]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.24-17.17.16:657][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.09.24-17.17.16:658][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.09.24-17.17.16:662][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.24-17.17.16:724][617]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.09.24-17.17.29:315][ 43]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 47462.101562
+[2025.09.24-17.17.29:382][ 51]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.24-17.17.29:382][ 51]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47462.156250, Update Interval: 305.123444
+[2025.09.24-17.17.36:868][927]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.24-17.17.36:871][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.24-17.17.36:899][927]LogPlayLevel: Creating play world package: /Game/CoverageSys/UEDPIE_0_CoverageTest
+[2025.09.24-17.17.36:900][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001137s)
+[2025.09.24-17.17.36:900][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CoverageSys/CoverageTest.CoverageTest to /Game/CoverageSys/UEDPIE_0_CoverageTest.CoverageTest (0.001165s)
+[2025.09.24-17.17.36:910][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.09.24-17.17.36:914][927]LogChaosDD: Creating Chaos Debug Draw Scene for world CoverageTest
+[2025.09.24-17.17.36:916][927]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2025.09.24-17.17.36:917][927]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.09.24-17.17.36:917][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.24-17.17.36:917][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.24-17.17.36:917][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.24-17.17.36:917][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.24-17.17.36:917][927]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.24-17.17.36:917][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.24-17.17.36:917][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.24-17.17.36:917][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.24-17.17.36:917][927]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.24-17.17.36:917][927]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.24-17.17.36:917][927]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.24-17.17.36:918][927]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.24-17.17.36:929][927]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (2- INZONE H5 - Game)
+[2025.09.24-17.17.36:929][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.24-17.17.36:930][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.24-17.17.36:930][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.24-17.17.36:930][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.09.24-17.17.36:930][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2025.09.24-17.17.36:932][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.09.24-17.17.36:932][927]LogInit: FAudioDevice initialized with ID 5.
+[2025.09.24-17.17.36:932][927]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.09.24-17.17.36:932][927]LogAudio: Display: Audio Device (ID: 5) registered with world 'CoverageTest'.
+[2025.09.24-17.17.36:932][927]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.24-17.17.36:933][927]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.09.24-17.17.36:934][927]LogWorld: Bringing World /Game/CoverageSys/UEDPIE_0_CoverageTest.CoverageTest up for play (max tick rate 0) at 2025.09.24-13.17.36
+[2025.09.24-17.17.36:934][927]LogWorld: Bringing up level for play took: 0.000435
+[2025.09.24-17.17.36:936][927]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.09.24-17.17.36:942][927]PIE: Server logged in
+[2025.09.24-17.17.36:942][927]PIE: Play in editor total start time 0.071 seconds.
+[2025.09.24-17.17.46:089][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-17.17.46:089][ 15]LogWorld: BeginTearingDown for /Game/CoverageSys/UEDPIE_0_CoverageTest
+[2025.09.24-17.17.46:089][ 15]LogWorld: UWorld::CleanupWorld for CoverageTest, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-17.17.46:089][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-17.17.46:098][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.24-17.17.46:098][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-17.17.46:109][ 15]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.24-17.17.46:109][ 15]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.24-17.17.46:109][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.24-17.17.46:111][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.24-17.17.46:115][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-17.17.46:116][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.09.24-17.17.46:192][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.09.24-17.17.49:499][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-17.17.49:540][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.24-17.17.49:544][397]LogSavePackage: Moving output files for package: /Game/CoverageSys/CoverageTest
+[2025.09.24-17.17.49:544][397]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/CoverageTest877EF21E46B32ABB87BD639A4F3C2277.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/CoverageTest.umap'
+[2025.09.24-17.17.49:550][397]LogFileHelpers: Saving map 'CoverageTest' took 0.028
+[2025.09.24-17.17.49:558][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.408 ms (total: 3.36 sec)
+[2025.09.24-17.17.49:582][397]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-17.17.49:582][397]LogContentValidation: Enabled validators:
+[2025.09.24-17.17.49:582][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-17.17.49:582][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-17.17.49:582][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-17.17.49:582][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-17.17.49:582][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-17.17.49:582][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-17.17.49:582][397]AssetCheck: /Game/CoverageSys/CoverageTest Validating asset

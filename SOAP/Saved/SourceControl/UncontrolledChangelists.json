@@ -7,7 +7,12 @@
 			"files": [
 				"C:/Users/ctwee/Documents/GitHub/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/ctwee/Documents/GitHub/Project-SOAP/SOAP/Content/GUI/HUD.uasset",
-				"C:/Users/ctwee/Documents/GitHub/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_BubbleWand.uasset"
+				"C:/Users/ctwee/Documents/GitHub/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_BubbleWand.uasset",
+				"C:/Users/ctwee/Documents/GitHub/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_SprayBottles.uasset",
+				"C:/Users/ctwee/Documents/GitHub/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/Enum_Items.uasset",
+				"C:/Users/ctwee/Documents/GitHub/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_BathBomb.uasset",
+				"C:/Users/ctwee/Documents/GitHub/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ToiletBrush.uasset",
+				"C:/Users/ctwee/Documents/GitHub/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ToiletPlunger.uasset"
 			]
 		}
 	]

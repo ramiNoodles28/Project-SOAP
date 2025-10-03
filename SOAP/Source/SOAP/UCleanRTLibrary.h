@@ -7,9 +7,9 @@
 UCLASS()
 class SOAP_API UCleanRTLibrary : public UBlueprintFunctionLibrary
 {
-  GENERATED_BODY()
+    GENERATED_BODY()
 public:
-  UFUNCTION(BlueprintCallable, Category="CleanRT")
-  static bool ReadRTAndCount(UTextureRenderTarget2D* RT, UTexture2D* Mask, float Threshold,
-                             int32& OutClean, int32& OutValid);
+    UFUNCTION(BlueprintCallable, Category="CleanRT")
+    static bool ReadRTAndCount(UTextureRenderTarget2D* RT, UTexture2D* Mask, float Threshold,
+                               UPARAM(ref) int32& OutClean, UPARAM(ref) int32& OutValid);
 };

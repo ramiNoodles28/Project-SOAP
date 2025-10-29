@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/aditmalpani/Documents/GitHub/Project-SOAP/SOAP/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
+				"/Users/aditmalpani/Documents/GitHub/Project-SOAP/SOAP/Content/ThirdPerson/Maps/Level_2.umap",
 				"C:/temp/AditM/SOAP/Project-SOAP/SOAP/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/temp/AditM/SOAP/Project-SOAP/SOAP/Content/ThirdPerson/Maps/Level_2.umap",
 				"C:/temp/AditM/SOAP/Project-SOAP/SOAP/Content/LevelPrototyping/Level_Designing_Models/aiStandardSurface1.uasset",

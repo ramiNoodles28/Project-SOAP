@@ -1,1 +1,3 @@
-[1024/010646.404:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1030/003758.992:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[1030/003800.991:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1030/003959.448:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

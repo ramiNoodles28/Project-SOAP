@@ -1714,3 +1714,4 @@ Script Stack (0 frames) :
 [2025.11.14-19.36.50:495][144]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2025.11.14-19.36.51:955][224]LogSlate: Window 'Message Log' being destroyed
 [2025.11.14-19.36.51:963][224]LogSlate: Window 'Message Log' being destroyed
+[2025.11.14-19.38.20:138][526]LogDerivedDataCache: C:/Users/ctwee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.

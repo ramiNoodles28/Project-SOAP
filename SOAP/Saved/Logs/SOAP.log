@@ -12048,3 +12048,695 @@ Script Stack (0 frames) :
 [2025.11.19-19.48.07:530][293]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.19-19.48.07:530][293]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14497.185547, Update Interval: 326.723236
 [2025.11.19-19.48.19:627][356]LogDerivedDataCache: C:/Users/Yihang Li/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.102 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2891 files in 4573 folders with total size 57 MiB.
+[2025.11.19-19.54.15:109][ 24]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14865.113281
+[2025.11.19-19.54.16:108][ 26]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-19.54.16:108][ 26]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14865.779297, Update Interval: 329.482727
+[2025.11.19-20.00.24:111][131]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15234.100586
+[2025.11.19-20.00.25:112][134]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-20.00.25:112][134]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15234.767578, Update Interval: 341.134064
+[2025.11.19-20.06.43:786][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15613.788086
+[2025.11.19-20.06.44:786][273]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-20.06.44:786][273]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15614.455078, Update Interval: 323.813599
+[2025.11.19-20.12.42:455][346]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15972.466797
+[2025.11.19-20.12.43:455][349]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-20.12.43:455][349]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15973.132812, Update Interval: 356.682037
+[2025.11.19-20.19.32:456][576]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16382.420898
+[2025.11.19-20.19.33:457][579]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-20.19.33:457][579]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16383.087891, Update Interval: 326.417419
+[2025.11.19-20.25.32:793][657]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16742.929688
+[2025.11.19-20.25.33:793][660]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-20.25.33:793][660]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16743.597656, Update Interval: 316.674103
+[2025.11.19-20.31.27:464][721]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17097.707031
+[2025.11.19-20.31.28:463][723]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-20.31.28:463][723]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17098.373047, Update Interval: 346.548645
+[2025.11.19-20.34.35:992][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.34.36:013][956]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.34.36:021][956]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.34.36:021][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.34.36:060][956]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.34.36:061][956]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter86A02A6040BC5C64A036808280A49C5F.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.34.36:069][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.500 ms (total: 4.57 sec)
+[2025.11.19-20.34.36:097][956]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.34.36:097][956]LogContentValidation: Enabled validators:
+[2025.11.19-20.34.36:097][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.34.36:097][956]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.34.36:097][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.34.36:097][956]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.34.36:097][956]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.34.36:097][956]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.34.36:097][956]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.34.36:540][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.11.19-20.34.38:483][106]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.11.19-20.34.38:502][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.11.19-20.35.12:149][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.11.19-20.35.13:539][235]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.11.19-20.35.13:557][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.11.19-20.35.14:753][235]LogSlate: Window 'Save Content' being destroyed
+[2025.11.19-20.35.14:758][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.35.14:781][235]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.35.14:788][235]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.35.14:789][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.35.14:826][235]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.35.14:826][235]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter936B825D4A79444327491C8592CEAEDD.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.35.14:833][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.836 ms (total: 4.65 sec)
+[2025.11.19-20.35.14:874][236]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.35.14:874][236]LogContentValidation: Enabled validators:
+[2025.11.19-20.35.14:874][236]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.35.14:874][236]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.35.14:874][236]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.35.14:875][236]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.35.14:875][236]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.35.14:875][236]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.35.14:875][236]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.38.09:710][929]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17498.941406
+[2025.11.19-20.38.10:710][932]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-20.38.10:710][932]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17499.607422, Update Interval: 359.311493
+[2025.11.19-20.38.47:608][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.11.19-20.38.52:021][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.11.19-20.38.53:374][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.38.53:395][716]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.38.53:403][716]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.38.53:403][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.38.53:445][716]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.38.53:445][716]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter3BF94503486D023DB59C308874CB12CE.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.38.53:454][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.418 ms (total: 4.73 sec)
+[2025.11.19-20.38.53:473][716]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.38.53:473][716]LogContentValidation: Enabled validators:
+[2025.11.19-20.38.53:473][716]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.38.53:473][716]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.38.53:473][716]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.38.53:473][716]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.38.53:473][716]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.38.53:473][716]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.38.53:473][716]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.38.54:913][880]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.11.19-20.38.54:932][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.11.19-20.39.21:420][632]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.39.21:445][632]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.39.21:445][632]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.39.21:485][632]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.39.21:485][632]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter871EF81C462291A5D3F15593702A327B.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.39.21:493][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.002 ms (total: 4.80 sec)
+[2025.11.19-20.39.21:523][632]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.39.21:523][632]LogContentValidation: Enabled validators:
+[2025.11.19-20.39.21:523][632]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.39.21:523][632]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.39.21:523][632]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.39.21:523][632]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.39.21:523][632]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.39.21:523][632]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.39.21:523][632]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.39.37:169][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.11.19-20.39.38:558][503]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.11.19-20.39.38:575][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.11.19-20.39.39:870][503]LogSlate: Window 'Save Content' being destroyed
+[2025.11.19-20.39.39:875][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.39.39:901][503]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.39.39:909][503]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.39.39:909][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.39.39:946][503]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.39.39:946][503]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter26F9482C48EBCBA7E9E02C97072B17BA.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.39.39:954][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.907 ms (total: 4.88 sec)
+[2025.11.19-20.39.40:003][504]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.39.40:003][504]LogContentValidation: Enabled validators:
+[2025.11.19-20.39.40:003][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.39.40:003][504]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.39.40:003][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.39.40:003][504]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.39.40:003][504]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.39.40:003][504]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.39.40:003][504]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.40.38:314][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.11.19-20.41.05:630][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.41.05:655][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.41.05:663][  6]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.41.05:663][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.41.05:701][  6]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.41.05:701][  6]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter00127A924F4FEEA48691288E9A8D7E71.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.41.05:709][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.727 ms (total: 4.96 sec)
+[2025.11.19-20.41.05:739][  6]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.41.05:739][  6]LogContentValidation: Enabled validators:
+[2025.11.19-20.41.05:739][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.41.05:739][  6]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.41.05:739][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.41.05:739][  6]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.41.05:739][  6]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.41.05:739][  6]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.41.05:739][  6]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.43.19:540][264]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.43.19:567][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.43.19:576][264]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.43.19:576][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.43.19:614][264]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.43.19:614][264]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacterC2CBA69C4399D4F584133CBEEC08F4D9.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.43.19:624][264]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.579 ms (total: 5.04 sec)
+[2025.11.19-20.43.19:651][264]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.43.19:651][264]LogContentValidation: Enabled validators:
+[2025.11.19-20.43.19:651][264]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.43.19:651][264]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.43.19:651][264]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.43.19:651][264]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.43.19:651][264]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.43.19:651][264]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.43.19:651][264]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.43.26:700][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.43.26:723][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.43.26:723][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.43.26:762][104]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.43.26:763][104]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter6507E5694DEED653996AD0A01E28615C.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.43.26:772][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.816 ms (total: 5.12 sec)
+[2025.11.19-20.43.26:800][104]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.43.26:800][104]LogContentValidation: Enabled validators:
+[2025.11.19-20.43.26:800][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.43.26:800][104]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.43.26:800][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.43.26:800][104]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.43.26:800][104]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.43.26:800][104]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.43.26:801][104]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.43.30:457][536]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.43.30:484][536]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.43.30:484][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.43.30:521][536]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.43.30:522][536]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter6606323A4B69747374936B9E0258A9C4.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.43.30:533][536]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.061 ms (total: 5.19 sec)
+[2025.11.19-20.43.30:557][536]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.43.30:557][536]LogContentValidation: Enabled validators:
+[2025.11.19-20.43.30:557][536]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.43.30:557][536]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.43.30:557][536]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.43.30:557][536]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.43.30:557][536]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.43.30:557][536]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.43.30:557][536]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.43.41:537][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.43.41:561][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.43.41:561][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.43.41:600][837]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.43.41:600][837]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacterCE1519A840BE96F7A082B9BECFFFADBD.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.43.41:610][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.093 ms (total: 5.26 sec)
+[2025.11.19-20.43.41:628][837]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.43.41:628][837]LogContentValidation: Enabled validators:
+[2025.11.19-20.43.41:628][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.43.41:628][837]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.43.41:628][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.43.41:628][837]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.43.41:628][837]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.43.41:628][837]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.43.41:628][837]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.44.05:761][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.44.05:790][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.44.05:797][756]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.44.05:797][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.44.05:835][756]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.44.05:835][756]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacterE12C9B52430ACB80309D6DB8847AFBEB.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.44.05:845][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.985 ms (total: 5.35 sec)
+[2025.11.19-20.44.05:868][756]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.44.05:868][756]LogContentValidation: Enabled validators:
+[2025.11.19-20.44.05:868][756]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.44.05:868][756]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.44.05:868][756]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.44.05:868][756]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.44.05:868][756]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.44.05:868][756]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.44.05:868][756]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.44.33:737][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.44.33:756][856]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.44.33:763][856]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.44.33:763][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.44.33:801][856]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.44.33:801][856]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter8F1A613845A1086F740959B105EA8507.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.44.33:812][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.693 ms (total: 5.42 sec)
+[2025.11.19-20.44.33:840][856]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.44.33:840][856]LogContentValidation: Enabled validators:
+[2025.11.19-20.44.33:840][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.44.33:840][856]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.44.33:840][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.44.33:840][856]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.44.33:840][856]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.44.33:840][856]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.44.33:840][856]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.44.52:081][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.44.52:111][251]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.44.52:111][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.44.52:150][251]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.44.52:150][251]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacterB572FAFD49457A856DE5AD8886042EF5.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.44.52:159][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.497 ms (total: 5.50 sec)
+[2025.11.19-20.44.52:178][251]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.44.52:178][251]LogContentValidation: Enabled validators:
+[2025.11.19-20.44.52:178][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.44.52:178][251]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.44.52:178][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.44.52:178][251]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.44.52:178][251]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.44.52:178][251]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.44.52:178][251]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.44.52:946][339]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2025.11.19-20.44.52:946][339]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2025.11.19-20.44.52:946][339]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2025.11.19-20.44.52:946][339]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2025.11.19-20.44.52:948][339]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.11.19-20.44.53:007][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.11.19-20.44.55:138][478]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17899.880859
+[2025.11.19-20.44.55:196][485]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-20.44.55:196][485]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17899.931641, Update Interval: 322.063049
+[2025.11.19-20.45.09:096][682]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2025.11.19-20.45.09:096][682]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2025.11.19-20.45.09:096][682]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2025.11.19-20.45.09:096][682]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2025.11.19-20.45.09:096][682]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2025.11.19-20.45.09:099][682]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.11.19-20.45.09:146][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.11.19-20.45.21:969][  5]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2025.11.19-20.45.21:969][  5]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2025.11.19-20.45.21:969][  5]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2025.11.19-20.45.21:969][  5]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2025.11.19-20.45.21:971][  5]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.11.19-20.45.22:020][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.11.19-20.45.53:075][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.45.53:101][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.45.53:109][504]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.45.53:109][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.45.53:149][504]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.45.53:150][504]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter2CB99C2F460607553A6443889B23A43E.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.45.53:157][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.484 ms (total: 5.58 sec)
+[2025.11.19-20.45.53:184][504]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.45.53:184][504]LogContentValidation: Enabled validators:
+[2025.11.19-20.45.53:184][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.45.53:184][504]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.45.53:184][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.45.53:184][504]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.45.53:184][504]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.45.53:184][504]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.45.53:184][504]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.46.05:187][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.46.05:207][922]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.46.05:214][922]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.46.05:214][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.46.05:252][922]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.46.05:252][922]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter11885813424D0BF50AA297A1DE90E273.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.46.05:261][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.565 ms (total: 5.65 sec)
+[2025.11.19-20.46.05:290][922]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.46.05:290][922]LogContentValidation: Enabled validators:
+[2025.11.19-20.46.05:290][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.46.05:290][922]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.46.05:290][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.46.05:290][922]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.46.05:290][922]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.46.05:290][922]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.46.05:290][922]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.46.06:451][ 52]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2025.11.19-20.46.06:451][ 52]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2025.11.19-20.46.06:451][ 52]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2025.11.19-20.46.06:452][ 52]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2025.11.19-20.46.06:453][ 52]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.11.19-20.46.06:503][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.11.19-20.46.10:967][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.46.10:995][465]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.46.11:002][465]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.46.11:002][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.46.11:041][465]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.46.11:041][465]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter2E331CA94203BF58AE121DA036BCD97A.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.46.11:051][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.952 ms (total: 5.74 sec)
+[2025.11.19-20.46.11:073][465]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.46.11:073][465]LogContentValidation: Enabled validators:
+[2025.11.19-20.46.11:073][465]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.46.11:073][465]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.46.11:073][465]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.46.11:073][465]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.46.11:073][465]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.46.11:073][465]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.46.11:073][465]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.46.26:486][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.46.26:512][937]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.46.26:520][937]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.46.26:520][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.46.26:558][937]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.46.26:558][937]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter25A3838248E2E4BA0F0D8EA962CF8FDC.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.46.26:567][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.002 ms (total: 5.82 sec)
+[2025.11.19-20.46.26:590][937]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.46.26:590][937]LogContentValidation: Enabled validators:
+[2025.11.19-20.46.26:590][937]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.46.26:590][937]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.46.26:590][937]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.46.26:590][937]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.46.26:590][937]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.46.26:590][937]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.46.26:590][937]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.46.49:955][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.46.49:979][231]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.46.49:987][231]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.46.49:987][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.46.50:025][231]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.46.50:025][231]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter34449C0E4A9AD4905ADF80BD5F4112F8.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.46.50:033][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.050 ms (total: 5.90 sec)
+[2025.11.19-20.46.50:056][231]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.46.50:056][231]LogContentValidation: Enabled validators:
+[2025.11.19-20.46.50:056][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.46.50:056][231]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.46.50:056][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.46.50:056][231]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.46.50:056][231]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.46.50:056][231]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.46.50:056][231]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.46.54:746][779]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2025.11.19-20.46.54:747][779]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.11.19-20.46.54:796][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.11.19-20.48.14:310][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.11.19-20.48.15:612][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.48.15:638][769]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.48.15:645][769]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.48.15:645][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.48.15:687][769]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.48.15:687][769]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter0FD5EB8B422288CE59E0C3AB21D4BF19.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.48.15:696][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.783 ms (total: 5.98 sec)
+[2025.11.19-20.48.15:722][769]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.48.15:722][769]LogContentValidation: Enabled validators:
+[2025.11.19-20.48.15:722][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.48.15:722][769]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.48.15:722][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.48.15:722][769]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.48.15:722][769]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.48.15:722][769]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.48.15:722][769]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.48.20:612][965]LogDerivedDataCache: C:/Users/Yihang Li/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.087 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2891 files in 4573 folders with total size 57 MiB.
+[2025.11.19-20.48.46:378][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.11.19-20.48.48:847][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.48.48:867][730]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.48.48:875][730]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.48.48:875][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.48.48:913][730]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.48.48:914][730]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacterEF249F96428F2A00CCC8358C502F56C7.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.48.48:924][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.080 ms (total: 6.06 sec)
+[2025.11.19-20.48.48:952][730]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.48.48:952][730]LogContentValidation: Enabled validators:
+[2025.11.19-20.48.48:952][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.48.48:952][730]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.48.48:952][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.48.48:952][730]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.48.48:952][730]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.48.48:952][730]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.48.48:952][730]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.49.00:527][164]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.11.19-20.49.00:546][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.11.19-20.49.19:813][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.49.19:833][500]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.49.19:833][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.49.19:874][500]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.49.19:874][500]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter24842DB64930DD4457E0B991AB96F1B6.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.49.19:883][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.412 ms (total: 6.13 sec)
+[2025.11.19-20.49.19:912][500]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.49.19:912][500]LogContentValidation: Enabled validators:
+[2025.11.19-20.49.19:912][500]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.49.19:912][500]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.49.19:912][500]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.49.19:912][500]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.49.19:912][500]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.49.19:912][500]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.49.19:912][500]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.49.44:509][956]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.11.19-20.49.44:526][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.11.19-20.51.10:933][985]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18271.710938
+[2025.11.19-20.51.11:000][992]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-20.51.11:000][992]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18271.769531, Update Interval: 352.406372
+[2025.11.19-20.51.18:818][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.11.19-20.51.20:473][907]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.11.19-20.51.20:493][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.11.19-20.51.21:385][907]LogSlate: Window 'Save Content' being destroyed
+[2025.11.19-20.51.21:392][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.51.21:412][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.51.21:419][907]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.51.21:419][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.51.21:460][907]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.51.21:461][907]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter2532E98E41731E391E409BB3EEB500DF.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.51.21:470][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.819 ms (total: 6.21 sec)
+[2025.11.19-20.51.21:513][908]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.51.21:513][908]LogContentValidation: Enabled validators:
+[2025.11.19-20.51.21:513][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.51.21:513][908]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.51.21:513][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.51.21:513][908]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.51.21:513][908]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.51.21:513][908]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.51.21:513][908]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.55.55:593][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.11.19-20.56.28:083][284]LogBlueprint: Warning: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\GUI\W_Pause.uasset: [Compiler] 'BP Third Person Character' does not inherit from 'Player Controller' ( Cast To BP_ThirdPersonCharacter  would always fail).
+[2025.11.19-20.56.28:105][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.11.19-20.56.35:207][ 30]LogBlueprint: Warning: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\GUI\W_Pause.uasset: [Compiler] 'BP Third Person Character' does not inherit from 'Player Controller' ( Cast To BP_ThirdPersonCharacter  would always fail).
+[2025.11.19-20.56.35:228][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.11.19-20.56.44:591][ 19]LogBlueprint: Warning: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\GUI\W_Pause.uasset: [Compiler] 'BP Third Person Character' does not inherit from 'Player Controller' ( Cast To BP_ThirdPersonCharacter  would always fail).
+[2025.11.19-20.56.44:612][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.11.19-20.56.45:425][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.56.45:451][ 79]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_Pause] ([2] browsable assets)...
+[2025.11.19-20.56.45:453][ 79]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_Pause.W_Pause]
+[2025.11.19-20.56.45:453][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Pause]
+[2025.11.19-20.56.45:453][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Pause" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Pause.uasset" SILENT=true
+[2025.11.19-20.56.45:463][ 79]LogSavePackage: Moving output files for package: /Game/GUI/W_Pause
+[2025.11.19-20.56.45:463][ 79]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_Pause15B41B5F46058C6B7F718593452EFB9F.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Pause.uasset'
+[2025.11.19-20.56.45:471][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.322 ms (total: 6.25 sec)
+[2025.11.19-20.56.45:499][ 79]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.56.45:499][ 79]LogContentValidation: Enabled validators:
+[2025.11.19-20.56.45:499][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.56.45:499][ 79]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.56.45:499][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.56.45:499][ 79]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.56.45:499][ 79]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.56.45:499][ 79]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.56.45:500][ 79]AssetCheck: /Game/GUI/W_Pause Validating asset
+[2025.11.19-20.57.10:420][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.11.19-20.57.10:426][216]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GUI/MainMenu' took 0.019
+[2025.11.19-20.57.10:426][216]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.57.10:434][216]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.57.10:434][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.57.10:475][216]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2025.11.19-20.57.10:475][216]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter_Auto1805DD62840FA1722D20D4BA06468F624.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2025.11.19-20.57.10:476][216]LogFileHelpers: Auto-saving content packages took 0.050
+[2025.11.19-20.57.23:724][385]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.57.23:750][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.57.23:750][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.57.23:789][385]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.57.23:789][385]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter807200124292C26642EBEBA1943369AF.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.57.23:798][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.019 ms (total: 6.33 sec)
+[2025.11.19-20.57.23:827][385]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.57.23:827][385]LogContentValidation: Enabled validators:
+[2025.11.19-20.57.23:827][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.57.23:827][385]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.57.23:827][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.57.23:827][385]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.57.23:827][385]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.57.23:827][385]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.57.23:827][385]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.57.36:360][826]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18654.689453
+[2025.11.19-20.57.37:361][829]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-20.57.37:361][829]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18655.355469, Update Interval: 327.118744
+[2025.11.19-20.58.08:139][498]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.11.19-20.58.08:156][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.11.19-20.58.34:797][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.11.19-20.58.36:659][383]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.11.19-20.58.36:679][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.11.19-20.58.38:715][383]LogSlate: Window 'Save Content' being destroyed
+[2025.11.19-20.58.38:721][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.58.38:737][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.58.38:744][383]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.58.38:744][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.58.38:783][383]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.58.38:783][383]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter14E6A1844A8F30B9F9668EBE550C5F96.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.58.38:793][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.536 ms (total: 6.40 sec)
+[2025.11.19-20.58.38:835][384]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.58.38:835][384]LogContentValidation: Enabled validators:
+[2025.11.19-20.58.38:835][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.58.38:835][384]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.58.38:835][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.58.38:835][384]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.58.38:835][384]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.58.38:835][384]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.58.38:835][384]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.58.58:298][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.11.19-20.59.00:248][356]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.11.19-20.59.00:265][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.11.19-20.59.01:603][356]LogSlate: Window 'Save Content' being destroyed
+[2025.11.19-20.59.01:610][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.59.01:632][356]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.59.01:640][356]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.59.01:640][356]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.59.01:683][356]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.59.01:683][356]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter997E939C462C2027DC9CCAA4CBB6F3B0.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.59.01:693][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.496 ms (total: 6.48 sec)
+[2025.11.19-20.59.01:740][357]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.59.01:740][357]LogContentValidation: Enabled validators:
+[2025.11.19-20.59.01:740][357]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.59.01:740][357]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.59.01:740][357]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.59.01:740][357]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.59.01:740][357]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.59.01:740][357]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.59.01:740][357]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-20.59.25:410][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.11.19-20.59.41:343][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.11.19-20.59.42:750][334]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.11.19-20.59.42:768][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.11.19-20.59.43:765][334]LogSlate: Window 'Save Content' being destroyed
+[2025.11.19-20.59.43:772][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-20.59.43:792][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-20.59.43:800][334]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-20.59.43:800][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-20.59.43:839][334]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-20.59.43:839][334]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacterB01155714D2E84544D80F781D8B1E01E.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-20.59.43:849][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.140 ms (total: 6.56 sec)
+[2025.11.19-20.59.43:894][335]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-20.59.43:894][335]LogContentValidation: Enabled validators:
+[2025.11.19-20.59.43:894][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-20.59.43:894][335]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-20.59.43:894][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-20.59.43:894][335]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-20.59.43:894][335]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-20.59.43:894][335]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-20.59.43:894][335]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-21.00.34:514][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.11.19-21.00.35:901][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-21.00.35:928][749]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_Pause] ([2] browsable assets)...
+[2025.11.19-21.00.35:930][749]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_Pause.W_Pause]
+[2025.11.19-21.00.35:930][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Pause]
+[2025.11.19-21.00.35:930][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Pause" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Pause.uasset" SILENT=true
+[2025.11.19-21.00.35:938][749]LogSavePackage: Moving output files for package: /Game/GUI/W_Pause
+[2025.11.19-21.00.35:939][749]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_Pause203F50B6495D96DADF4ECBACF9A50C53.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Pause.uasset'
+[2025.11.19-21.00.35:948][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.543 ms (total: 6.61 sec)
+[2025.11.19-21.00.35:977][749]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-21.00.35:977][749]LogContentValidation: Enabled validators:
+[2025.11.19-21.00.35:977][749]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-21.00.35:977][749]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-21.00.35:977][749]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-21.00.35:977][749]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-21.00.35:977][749]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-21.00.35:977][749]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-21.00.35:977][749]AssetCheck: /Game/GUI/W_Pause Validating asset
+[2025.11.19-21.00.38:471][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.11.19-21.00.40:693][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-21.00.40:716][268]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_Pause] ([2] browsable assets)...
+[2025.11.19-21.00.40:718][268]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_Pause.W_Pause]
+[2025.11.19-21.00.40:718][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Pause]
+[2025.11.19-21.00.40:718][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Pause" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Pause.uasset" SILENT=true
+[2025.11.19-21.00.40:725][268]LogSavePackage: Moving output files for package: /Game/GUI/W_Pause
+[2025.11.19-21.00.40:725][268]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_PauseB2CF867A47B57DFF02ADF68691734F95.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Pause.uasset'
+[2025.11.19-21.00.40:732][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.211 ms (total: 6.65 sec)
+[2025.11.19-21.00.40:759][268]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-21.00.40:759][268]LogContentValidation: Enabled validators:
+[2025.11.19-21.00.40:759][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-21.00.40:759][268]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-21.00.40:759][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-21.00.40:759][268]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-21.00.40:759][268]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-21.00.40:759][268]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-21.00.40:760][268]AssetCheck: /Game/GUI/W_Pause Validating asset
+[2025.11.19-21.00.49:003][186]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.11.19-21.00.49:021][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.11.19-21.02.39:747][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-21.02.39:771][895]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-21.02.39:779][895]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-21.02.39:779][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-21.02.39:819][895]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-21.02.39:819][895]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacterC17DB9A745BB0CECC88CCD9294918AB7.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-21.02.39:828][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.835 ms (total: 6.73 sec)
+[2025.11.19-21.02.39:854][895]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-21.02.39:854][895]LogContentValidation: Enabled validators:
+[2025.11.19-21.02.39:854][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-21.02.39:854][895]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-21.02.39:854][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-21.02.39:854][895]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-21.02.39:854][895]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-21.02.39:854][895]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-21.02.39:854][895]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-21.02.52:762][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.11.19-21.02.54:129][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-21.02.54:149][458]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.19-21.02.54:155][458]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.19-21.02.54:155][458]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.19-21.02.54:194][458]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.19-21.02.54:195][458]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacter92054663491981FFD2F051989D7E3528.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.19-21.02.54:205][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.562 ms (total: 6.80 sec)
+[2025.11.19-21.02.54:233][458]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-21.02.54:233][458]LogContentValidation: Enabled validators:
+[2025.11.19-21.02.54:233][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-21.02.54:233][458]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-21.02.54:233][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-21.02.54:233][458]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-21.02.54:233][458]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-21.02.54:233][458]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-21.02.54:233][458]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.19-21.03.39:268][771]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19014.587891
+[2025.11.19-21.03.40:268][775]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-21.03.40:268][775]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19015.255859, Update Interval: 337.632996
+[2025.11.19-21.10.00:270][914]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19395.681641
+[2025.11.19-21.10.01:269][917]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-21.10.01:269][917]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19396.349609, Update Interval: 325.289459
+[2025.11.19-21.16.03:940][  5]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19759.435547
+[2025.11.19-21.16.04:938][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-21.16.04:938][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19760.101562, Update Interval: 303.629272
+[2025.11.19-21.22.03:942][ 86]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20119.521484
+[2025.11.19-21.22.04:942][ 89]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-21.22.04:942][ 89]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20120.189453, Update Interval: 302.497620
+[2025.11.19-21.27.51:610][128]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20467.283203
+[2025.11.19-21.27.52:612][132]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-21.27.52:612][132]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20467.951172, Update Interval: 317.344269
+[2025.11.19-21.33.59:281][232]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20835.031250
+[2025.11.19-21.34.00:281][235]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-21.34.00:281][235]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20835.699219, Update Interval: 324.117554
+[2025.11.19-21.40.05:618][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21201.462891
+[2025.11.19-21.40.06:619][334]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-21.40.06:619][334]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21202.128906, Update Interval: 332.989288
+[2025.11.19-21.46.30:287][484]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21586.285156
+[2025.11.19-21.46.31:288][487]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-21.46.31:288][487]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21586.953125, Update Interval: 330.638153
+[2025.11.19-21.48.20:584][815]LogDerivedDataCache: C:/Users/Yihang Li/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.058 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2891 files in 4573 folders with total size 57 MiB.
+[2025.11.19-21.52.57:957][648]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21974.015625
+[2025.11.19-21.52.58:956][650]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-21.52.58:957][651]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21974.681641, Update Interval: 348.004395
+[2025.11.19-21.59.29:626][823]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22365.765625
+[2025.11.19-21.59.30:626][826]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-21.59.30:626][826]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22366.431641, Update Interval: 356.259033
+[2025.11.19-22.06.26:628][ 74]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22782.851562
+[2025.11.19-22.06.27:627][ 77]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-22.06.27:627][ 77]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22783.517578, Update Interval: 345.373077
+[2025.11.19-22.12.56:296][243]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23172.644531
+[2025.11.19-22.12.57:298][246]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-22.12.57:298][246]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23173.312500, Update Interval: 324.774933
+[2025.11.19-22.19.06:298][352]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23542.779297
+[2025.11.19-22.19.07:299][355]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-22.19.07:299][355]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23543.447266, Update Interval: 331.689209
+[2025.11.19-22.25.20:299][474]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23916.890625
+[2025.11.19-22.25.21:300][477]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-22.25.21:300][477]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23917.558594, Update Interval: 347.169403
+[2025.11.19-22.31.50:973][647]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24307.638672
+[2025.11.19-22.31.51:973][650]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-22.31.51:973][650]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24308.304688, Update Interval: 330.343323
+[2025.11.19-22.38.11:643][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24688.373047
+[2025.11.19-22.38.12:641][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-22.38.12:642][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24689.041016, Update Interval: 315.222015
+[2025.11.19-22.44.06:650][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25043.447266
+[2025.11.19-22.44.07:650][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-22.44.07:650][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25044.113281, Update Interval: 339.185760
+[2025.11.19-22.48.20:586][615]LogDerivedDataCache: C:/Users/Yihang Li/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.059 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2891 files in 4573 folders with total size 57 MiB.
+[2025.11.19-22.50.27:987][998]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25424.833984
+[2025.11.19-22.50.28:987][  1]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-22.50.28:987][  1]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25425.500000, Update Interval: 315.591919
+[2025.11.19-22.56.34:656][ 98]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25791.601562
+[2025.11.19-22.56.35:656][101]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-22.56.35:656][101]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25792.267578, Update Interval: 352.069458
+[2025.11.19-23.03.07:657][276]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26184.699219
+[2025.11.19-23.03.08:658][280]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-23.03.08:658][280]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26185.365234, Update Interval: 358.665131
+[2025.11.19-23.09.59:326][512]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26596.482422
+[2025.11.19-23.10.00:327][515]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-23.10.00:327][515]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26597.148438, Update Interval: 333.639343
+[2025.11.19-23.16.06:659][613]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26963.912109
+[2025.11.19-23.16.07:661][617]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-23.16.07:661][617]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26964.582031, Update Interval: 346.607269
+[2025.11.19-23.22.31:666][769]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27349.007812
+[2025.11.19-23.22.32:664][771]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-23.22.32:664][771]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27349.673828, Update Interval: 306.727509
+[2025.11.19-23.28.19:002][810]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27696.425781
+[2025.11.19-23.28.20:002][813]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-23.28.20:002][813]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27697.093750, Update Interval: 334.961395
+[2025.11.19-23.34.47:004][975]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28084.535156
+[2025.11.19-23.34.48:003][977]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-23.34.48:003][977]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28085.201172, Update Interval: 321.746277

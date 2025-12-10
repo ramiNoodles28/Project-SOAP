@@ -8,7 +8,12 @@
 				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/Blueprints/BP_Canvas.uasset",
 				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_HUD.uasset",
-				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/MainMenu.umap"
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/MainMenu.umap",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/BP_EnemySplitting.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/BP_EnemyTeleport.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/NewBP_EnemyTeleport.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/Materials_Textures/M_Brush_Dirty.uasset"
 			]
 		}
 	]

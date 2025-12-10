@@ -5,7 +5,34 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/the_h/Documents/Purdue/cgt 365/Project-SOAP/SOAP/Content/GUI/W_HUD.uasset"
+=======
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/Blueprints/BP_Canvas.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_HUD.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/MainMenu.umap",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/BP_EnemySplitting.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/BP_EnemyTeleport.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/NewBP_EnemyTeleport.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/Materials_Textures/M_Brush_Dirty.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Maps/Map_Data_Control/DA_LevelList.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_MainMenu.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelSelect.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3L/3PC3EDNF2L63P7PRUOWQDG.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/RT/IX2TBNGJZJ5W8NQ38UB9HX.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/2O/ZKAN16C9XUKC2FCBQS9OVD.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TS/ZNE2SWIM0KHRF7VN4JJ6ZB.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/YV/9ZLDD87IABA0EKQ3MYP95D.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/FF/IXWE7B9P8KWGKR62SMK49U.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/CN/97WRFPTUBS85L5UQL7IQJS.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/TY/D23WOGLYFNGLZVTKMPE3FO.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/M2/02KRJL1RVZZHMNXVGIEQHR.uasset"
+>>>>>>> Yihang
 			]
 		}
 	]

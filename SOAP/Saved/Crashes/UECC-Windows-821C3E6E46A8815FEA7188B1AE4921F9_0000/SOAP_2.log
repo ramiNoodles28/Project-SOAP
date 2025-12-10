@@ -1487,9 +1487,3 @@ Script Stack (0 frames) :
 [2025.12.10-17.59.46:365][533]LogOutputDevice: Error: [Callstack] 0x00007ffe423de8d7 KERNEL32.DLL!UnknownFunction []
 [2025.12.10-17.59.46:365][533]LogOutputDevice: Error: [Callstack] 0x00007ffe43f0c53c ntdll.dll!UnknownFunction []
 [2025.12.10-17.59.46:365][533]LogOutputDevice: Error: 
-[2025.12.10-17.59.46:370][533]LogStats:                SubmitErrorReport -  0.000 s
-[2025.12.10-17.59.47:044][533]LogStats:                    SendNewReport -  0.675 s
-[2025.12.10-17.59.47:044][533]LogStats:             FDebug::EnsureFailed -  0.711 s
-[2025.12.10-17.59.55:280][535]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
-[2025.12.10-17.59.55:280][535]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
-[2025.12.10-17.59.55:280][535]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture

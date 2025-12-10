@@ -4116,3 +4116,191 @@ Make sure '/Game/GUI/W_MainMenu.W_MainMenu_C' has been compiled for  Get LoadGam
 [2025.12.10-17.26.00:328][258]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.10-17.26.00:328][258]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.10-17.26.00:329][258]AssetCheck: /Game/GUI/W_Results Validating asset
+[2025.12.10-17.26.45:613][864]LogSlate: External Image Picker: DecompressImage failed
+[2025.12.10-17.26.53:148][705]LogSlate: Window 'Project Settings' being destroyed
+[2025.12.10-17.26.53:153][705]LogSlate: Window 'Project Settings' being destroyed
+[2025.12.10-17.26.54:019][791]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-17.26.54:040][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.12.10-17.27.31:290][ 85]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42680.664062
+[2025.12.10-17.27.32:289][ 88]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-17.27.32:289][ 88]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42681.328125, Update Interval: 336.294434
+[2025.12.10-17.28.21:895][336]LogSlate: External Image Picker: DecompressImage failed
+[2025.12.10-17.28.27:359][945]LogSlate: Window 'Project Settings' being destroyed
+[2025.12.10-17.28.27:366][945]LogSlate: Window 'Project Settings' being destroyed
+[2025.12.10-17.33.42:815][960]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43050.593750
+[2025.12.10-17.33.43:816][962]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-17.33.43:816][962]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43051.257812, Update Interval: 324.535065
+[2025.12.10-17.39.20:815][973]LogDerivedDataCache: C:/Users/Yihang Li/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.10-17.40.02:532][ 99]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43428.976562
+[2025.12.10-17.40.03:532][102]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-17.40.03:532][102]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43429.644531, Update Interval: 313.617981
+[2025.12.10-17.43.22:797][699]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=扬声器 (2- INZONE H5 - Game), InstanceID=1
+[2025.12.10-17.43.23:297][699]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.12.10-17.43.23:298][699]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27852
+[2025.12.10-17.43.23:631][700]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.12.10-17.43.23:633][700]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{0b587a75-55dc-4ec3-b678-dbdb0c7a08b6}, Name=扬声器 (2- INZONE H5 - Game)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19.56
+[2025.12.10-17.43.23:633][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2025.12.10-17.43.23:634][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.12.10-17.45.22:985][454]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=XV271U M3 (NVIDIA High Definition Audio), InstanceID=1
+[2025.12.10-17.45.24:228][454]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.12.10-17.45.24:228][454]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27852
+[2025.12.10-17.45.24:339][457]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.12.10-17.45.24:340][457]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{41271434-e025-40b3-8751-47483c7aec7a}, Name=XV271U M3 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=88.06
+[2025.12.10-17.45.24:340][457]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.12.10-17.45.24:342][457]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.12.10-17.45.37:373][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.12.10-17.45.37:375][188]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GUI/MainMenu' took 0.018
+[2025.12.10-17.45.37:375][188]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_Results] ([2] browsable assets)...
+[2025.12.10-17.45.37:377][188]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_Results.W_Results]
+[2025.12.10-17.45.37:377][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Results]
+[2025.12.10-17.45.37:377][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Results" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/Autosaves/Game/GUI/W_Results_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2025.12.10-17.45.37:384][188]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GUI/W_Results_Auto8
+[2025.12.10-17.45.37:384][188]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_Results_Auto876D7D013466ADD6C9B5E968579FB229B.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/Autosaves/Game/GUI/W_Results_Auto8.uasset'
+[2025.12.10-17.45.37:385][188]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.12.10-17.46.06:510][880]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43786.027344
+[2025.12.10-17.46.06:600][885]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-17.46.06:600][885]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43786.101562, Update Interval: 319.841919
+[2025.12.10-17.48.23:973][892]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=扬声器 (2- INZONE H5 - Game), InstanceID=1
+[2025.12.10-17.48.24:090][893]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.12.10-17.48.24:090][893]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27852
+[2025.12.10-17.48.24:242][894]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.12.10-17.48.24:244][894]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{0b587a75-55dc-4ec3-b678-dbdb0c7a08b6}, Name=扬声器 (2- INZONE H5 - Game)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=80.01
+[2025.12.10-17.48.24:244][894]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2025.12.10-17.48.24:246][894]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.12.10-17.49.50:492][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.12.10-17.49.50:571][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.49.50:604][748]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_Results] ([2] browsable assets)...
+[2025.12.10-17.49.50:606][748]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_Results.W_Results]
+[2025.12.10-17.49.50:606][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Results]
+[2025.12.10-17.49.50:606][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Results" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset" SILENT=true
+[2025.12.10-17.49.50:615][748]LogSavePackage: Moving output files for package: /Game/GUI/W_Results
+[2025.12.10-17.49.50:616][748]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_ResultsBD1FC97A433E2C376AB3F6AF0C469C5D.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset'
+[2025.12.10-17.49.50:623][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.726 ms (total: 4.01 sec)
+[2025.12.10-17.49.50:652][748]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.49.50:652][748]LogContentValidation: Enabled validators:
+[2025.12.10-17.49.50:652][748]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.49.50:652][748]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.49.50:652][748]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.49.50:652][748]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.49.50:652][748]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.49.50:652][748]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.49.50:652][748]AssetCheck: /Game/GUI/W_Results Validating asset
+[2025.12.10-17.51.08:496][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.12.10-17.51.08:565][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.51.08:598][698]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2025.12.10-17.51.08:598][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2025.12.10-17.51.08:610][698]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2025.12.10-17.51.08:610][698]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonGameMode2DDAE40C46A5A48333F1C084DB207521.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2025.12.10-17.51.08:611][698]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_Results] ([2] browsable assets)...
+[2025.12.10-17.51.08:613][698]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_Results.W_Results]
+[2025.12.10-17.51.08:613][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Results]
+[2025.12.10-17.51.08:613][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Results" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset" SILENT=true
+[2025.12.10-17.51.08:620][698]LogSavePackage: Moving output files for package: /Game/GUI/W_Results
+[2025.12.10-17.51.08:620][698]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_Results891031A94F929DF43DAC218775B0E67D.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset'
+[2025.12.10-17.51.08:628][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.034 ms (total: 4.07 sec)
+[2025.12.10-17.51.08:652][698]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.10-17.51.08:652][698]LogContentValidation: Enabled validators:
+[2025.12.10-17.51.08:652][698]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.51.08:652][698]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.51.08:652][698]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.51.08:652][698]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.51.08:652][698]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.51.08:652][698]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.51.08:652][698]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
+[2025.12.10-17.51.08:653][698]AssetCheck: /Game/GUI/W_Results Validating asset
+[2025.12.10-17.51.09:650][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.51.09:672][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/W_Results] ([2] browsable assets)...
+[2025.12.10-17.51.09:672][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Results]
+[2025.12.10-17.51.09:672][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Results" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset" SILENT=true
+[2025.12.10-17.51.09:680][797]LogSavePackage: Moving output files for package: /Game/GUI/W_Results
+[2025.12.10-17.51.09:680][797]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_Results9ADB75F84E4801856E53F3918D646C29.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset'
+[2025.12.10-17.51.09:687][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.363 ms (total: 4.11 sec)
+[2025.12.10-17.51.09:715][797]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.51.09:715][797]LogContentValidation: Enabled validators:
+[2025.12.10-17.51.09:715][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.51.09:715][797]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.51.09:715][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.51.09:715][797]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.51.09:715][797]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.51.09:715][797]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.51.09:715][797]AssetCheck: /Game/GUI/W_Results Validating asset
+[2025.12.10-17.51.10:817][926]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-17.51.10:840][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.12.10-17.51.56:274][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.12.10-17.51.56:320][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.51.56:347][233]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_HUD] ([2] browsable assets)...
+[2025.12.10-17.51.56:350][233]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_HUD.W_HUD]
+[2025.12.10-17.51.56:350][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_HUD]
+[2025.12.10-17.51.56:350][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_HUD" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_HUD.uasset" SILENT=true
+[2025.12.10-17.51.56:360][233]LogSavePackage: Moving output files for package: /Game/GUI/W_HUD
+[2025.12.10-17.51.56:360][233]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_HUD165FE0294C1F046B3C9AFC9F528E48E9.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_HUD.uasset'
+[2025.12.10-17.51.56:369][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.557 ms (total: 4.16 sec)
+[2025.12.10-17.51.56:402][233]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.51.56:402][233]LogContentValidation: Enabled validators:
+[2025.12.10-17.51.56:402][233]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.51.56:402][233]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.51.56:402][233]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.51.56:402][233]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.51.56:402][233]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.51.56:402][233]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.51.56:404][233]AssetCheck: /Game/GUI/W_HUD Validating asset
+[2025.12.10-17.51.57:711][359]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-17.51.57:732][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.12.10-17.52.12:206][590]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44135.484375
+[2025.12.10-17.52.13:206][593]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-17.52.13:206][594]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44136.152344, Update Interval: 328.200928
+[2025.12.10-17.56.00:344][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.12.10-17.56.00:420][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.56.00:453][703]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_Results] ([2] browsable assets)...
+[2025.12.10-17.56.00:455][703]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_Results.W_Results]
+[2025.12.10-17.56.00:455][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Results]
+[2025.12.10-17.56.00:455][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Results" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset" SILENT=true
+[2025.12.10-17.56.00:464][703]LogSavePackage: Moving output files for package: /Game/GUI/W_Results
+[2025.12.10-17.56.00:464][703]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_Results8679389F46999702A530198FE764A082.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset'
+[2025.12.10-17.56.00:471][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.770 ms (total: 4.21 sec)
+[2025.12.10-17.56.00:502][703]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.56.00:502][703]LogContentValidation: Enabled validators:
+[2025.12.10-17.56.00:502][703]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.56.00:502][703]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.56.00:502][703]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.56.00:502][703]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.56.00:502][703]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.56.00:502][703]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.56.00:503][703]AssetCheck: /Game/GUI/W_Results Validating asset
+[2025.12.10-17.56.00:960][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.56.00:988][737]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/W_Results] ([2] browsable assets)...
+[2025.12.10-17.56.00:988][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Results]
+[2025.12.10-17.56.00:988][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Results" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset" SILENT=true
+[2025.12.10-17.56.00:995][737]LogSavePackage: Moving output files for package: /Game/GUI/W_Results
+[2025.12.10-17.56.00:995][737]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_ResultsD92CDBAD463E83F8E98CB5B005724AF2.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset'
+[2025.12.10-17.56.01:004][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.858 ms (total: 4.25 sec)
+[2025.12.10-17.56.01:028][737]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.56.01:028][737]LogContentValidation: Enabled validators:
+[2025.12.10-17.56.01:028][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.56.01:028][737]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.56.01:028][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.56.01:028][737]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.56.01:028][737]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.56.01:028][737]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.56.01:029][737]AssetCheck: /Game/GUI/W_Results Validating asset
+[2025.12.10-17.56.56:910][552]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.56.56:940][552]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/W_Results] ([2] browsable assets)...
+[2025.12.10-17.56.56:940][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Results]
+[2025.12.10-17.56.56:940][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Results" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset" SILENT=true
+[2025.12.10-17.56.56:949][552]LogSavePackage: Moving output files for package: /Game/GUI/W_Results
+[2025.12.10-17.56.56:949][552]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_Results64E2A68D40C6699EBD7003A17F21693C.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset'
+[2025.12.10-17.56.56:956][552]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.217 ms (total: 4.30 sec)
+[2025.12.10-17.56.56:988][552]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.56.56:988][552]LogContentValidation: Enabled validators:
+[2025.12.10-17.56.56:988][552]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.56.56:988][552]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.56.56:988][552]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.56.56:988][552]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.56.56:988][552]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.56.56:988][552]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.56.56:989][552]AssetCheck: /Game/GUI/W_Results Validating asset
+[2025.12.10-17.57.07:954][864]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-17.57.07:979][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.12.10-17.58.19:434][285]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44491.218750
+[2025.12.10-17.58.20:435][288]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-17.58.20:435][288]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44491.886719, Update Interval: 323.504150

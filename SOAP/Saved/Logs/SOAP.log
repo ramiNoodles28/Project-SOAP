@@ -4304,3 +4304,45 @@ Make sure '/Game/GUI/W_MainMenu.W_MainMenu_C' has been compiled for  Get LoadGam
 [2025.12.10-17.58.19:434][285]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44491.218750
 [2025.12.10-17.58.20:435][288]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.10-17.58.20:435][288]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44491.886719, Update Interval: 323.504150
+[2025.12.10-18.04.34:776][411]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44865.410156
+[2025.12.10-18.04.35:776][414]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-18.04.35:776][414]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44866.078125, Update Interval: 302.792450
+[2025.12.10-18.04.50:284][632]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-18.04.50:312][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.12.10-18.06.20:184][786]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-18.06.20:208][786]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_HUD] ([2] browsable assets)...
+[2025.12.10-18.06.20:210][786]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_HUD.W_HUD]
+[2025.12.10-18.06.20:210][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_HUD]
+[2025.12.10-18.06.20:210][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_HUD" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_HUD.uasset" SILENT=true
+[2025.12.10-18.06.20:221][786]LogSavePackage: Moving output files for package: /Game/GUI/W_HUD
+[2025.12.10-18.06.20:221][786]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_HUD482E1ADE4EE8B951E1A8BBA9BC547AB3.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_HUD.uasset'
+[2025.12.10-18.06.20:230][786]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.947 ms (total: 4.35 sec)
+[2025.12.10-18.06.20:261][786]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-18.06.20:261][786]LogContentValidation: Enabled validators:
+[2025.12.10-18.06.20:261][786]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-18.06.20:261][786]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-18.06.20:261][786]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-18.06.20:261][786]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-18.06.20:261][786]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-18.06.20:261][786]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-18.06.20:262][786]AssetCheck: /Game/GUI/W_HUD Validating asset
+[2025.12.10-18.06.21:394][915]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-18.06.21:416][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.12.10-18.07.01:446][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.12.10-18.07.02:304][777]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-18.07.02:332][777]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_HUD] ([2] browsable assets)...
+[2025.12.10-18.07.02:335][777]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_HUD.W_HUD]
+[2025.12.10-18.07.02:335][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_HUD]
+[2025.12.10-18.07.02:335][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_HUD" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_HUD.uasset" SILENT=true
+[2025.12.10-18.07.02:345][777]LogSavePackage: Moving output files for package: /Game/GUI/W_HUD
+[2025.12.10-18.07.02:345][777]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_HUDFDFABB7D4E2EC7B6E960FDAB7F47A951.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_HUD.uasset'
+[2025.12.10-18.07.02:353][777]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.978 ms (total: 4.39 sec)
+[2025.12.10-18.07.02:380][777]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-18.07.02:380][777]LogContentValidation: Enabled validators:
+[2025.12.10-18.07.02:380][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-18.07.02:380][777]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-18.07.02:380][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-18.07.02:380][777]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-18.07.02:380][777]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-18.07.02:380][777]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-18.07.02:381][777]AssetCheck: /Game/GUI/W_HUD Validating asset

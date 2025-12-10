@@ -5,11 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/risho/source/repos/CGT215FinalProject/Project-SOAP/SOAP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
-				"C:/Users/risho/source/repos/CGT215FinalProject/Project-SOAP/SOAP/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
-				"C:/Users/risho/source/repos/CGT215FinalProject/Project-SOAP/SOAP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/E3/4IO68X5UN6T795CZZWOKNK.uasset",
-				"C:/Users/risho/source/repos/CGT215FinalProject/Project-SOAP/SOAP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/CD/FPO4DDZ9DDMB2O6N4MRMQU.uasset",
-				"C:/Users/the_h/Documents/Purdue/cgt 365/Project-SOAP/SOAP/Content/GUI/W_HUD.uasset"
+				"C:/Users/risho/source/repos/CGT215FinalProject/Project-SOAP/SOAP/Content/Enemies/NewBP_EnemyTeleport.uasset"
 			]
 		}
 	]

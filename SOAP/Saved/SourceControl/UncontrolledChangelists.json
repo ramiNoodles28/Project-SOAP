@@ -16,7 +16,10 @@
 				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/Materials_Textures/M_Brush_Dirty.uasset",
 				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Maps/Map_Data_Control/DA_LevelList.uasset",
 				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap.uasset",
-				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_MainMenu.uasset"
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_MainMenu.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelSelect.uasset",
+				"D:/Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset"
 			]
 		}
 	]

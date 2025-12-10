@@ -3439,3 +3439,680 @@ Make sure 'BP_GameInstance_Soap_C' has been compiled for  Load Progress
 [2025.12.10-16.44.35:236][422]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40185.636719
 [2025.12.10-16.44.35:310][431]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.10-16.44.35:310][431]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40185.699219, Update Interval: 309.657288
+[2025.12.10-16.44.57:205][614]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GUI/W_LevelCard.W_LevelCard
+[2025.12.10-16.44.57:205][614]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.12.10-16.44.57:205][614]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_44'.
+[2025.12.10-16.44.57:210][614]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2025.12.10-16.44.57:210][614]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_45'.
+[2025.12.10-16.48.33:311][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.12.10-16.48.33:314][753]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GUI/MainMenu' took 0.058
+[2025.12.10-16.48.33:315][753]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-16.48.33:316][753]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_LevelCard.W_LevelCard]
+[2025.12.10-16.48.33:316][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-16.48.33:318][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GUI/W_LevelCard_Auto6
+[2025.12.10-16.48.33:318][753]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCard_Auto6873C337F46E8B289F70D1C841C0E3E65.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/Autosaves/Game/GUI/W_LevelCard_Auto6.uasset'
+[2025.12.10-16.48.33:319][753]LogFileHelpers: Auto-saving content packages took 0.004
+[2025.12.10-16.50.33:590][115]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40536.710938
+[2025.12.10-16.50.34:590][118]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.50.34:590][118]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40537.375000, Update Interval: 315.467377
+[2025.12.10-16.56.39:642][213]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40901.574219
+[2025.12.10-16.56.40:642][216]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.56.40:642][216]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40902.238281, Update Interval: 348.764313
+[2025.12.10-17.01.10:715][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.12.10-17.01.10:785][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.01.10:807][ 25]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-17.01.10:809][ 25]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_LevelCard.W_LevelCard]
+[2025.12.10-17.01.10:809][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-17.01.10:809][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelCard" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset" SILENT=true
+[2025.12.10-17.01.10:812][ 25]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelCard
+[2025.12.10-17.01.10:812][ 25]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCard3B12CB02417C349BF13C6FADC5EEA3EB.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset'
+[2025.12.10-17.01.10:822][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.211 ms (total: 2.70 sec)
+[2025.12.10-17.01.10:857][ 25]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.01.10:858][ 25]LogContentValidation: Enabled validators:
+[2025.12.10-17.01.10:858][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.01.10:858][ 25]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.01.10:858][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.01.10:858][ 25]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.01.10:858][ 25]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.01.10:858][ 25]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.01.10:858][ 25]AssetCheck: /Game/GUI/W_LevelCard Validating asset
+[2025.12.10-17.01.11:632][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.01.11:650][104]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-17.01.11:650][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-17.01.11:650][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelCard" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset" SILENT=true
+[2025.12.10-17.01.11:653][104]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelCard
+[2025.12.10-17.01.11:653][104]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCardEEDB942B4ECD51F632F6D3A769360A79.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset'
+[2025.12.10-17.01.11:660][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 27.960 ms (total: 2.73 sec)
+[2025.12.10-17.01.11:684][104]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.01.11:684][104]LogContentValidation: Enabled validators:
+[2025.12.10-17.01.11:684][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.01.11:684][104]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.01.11:684][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.01.11:684][104]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.01.11:684][104]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.01.11:684][104]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.01.11:684][104]AssetCheck: /Game/GUI/W_LevelCard Validating asset
+[2025.12.10-17.03.00:858][528]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41281.542969
+[2025.12.10-17.03.01:859][531]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-17.03.01:859][531]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41282.207031, Update Interval: 314.588470
+[2025.12.10-17.04.24:863][ 39]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.10-17.05.53:148][ 89]LogSlate: Took 0.008152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.12.10-17.06.39:968][633]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.10-17.06.46:178][371]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.10-17.06.51:157][961]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.10-17.07.06:248][758]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.10-17.07.09:332][120]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.10-17.07.10:949][308]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.10-17.07.14:581][736]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.10-17.08.29:944][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.12.10-17.08.30:091][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.08.30:111][545]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-17.08.30:113][545]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_LevelCard.W_LevelCard]
+[2025.12.10-17.08.30:113][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-17.08.30:113][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelCard" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset" SILENT=true
+[2025.12.10-17.08.30:117][545]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelCard
+[2025.12.10-17.08.30:117][545]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCardD0F683D84555ADFFA04423A552B47BCA.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset'
+[2025.12.10-17.08.30:126][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.069 ms (total: 2.76 sec)
+[2025.12.10-17.08.30:176][545]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.08.30:176][545]LogContentValidation: Enabled validators:
+[2025.12.10-17.08.30:176][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.08.30:176][545]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.08.30:176][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.08.30:176][545]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.08.30:176][545]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.08.30:176][545]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.08.30:176][545]AssetCheck: /Game/GUI/W_LevelCard Validating asset
+[2025.12.10-17.08.32:737][834]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-17.08.32:758][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.12.10-17.09.07:094][738]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41631.417969
+[2025.12.10-17.09.07:176][748]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-17.09.07:176][748]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41631.488281, Update Interval: 336.481201
+[2025.12.10-17.10.14:316][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.12.10-17.10.14:327][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.10.14:352][649]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-17.10.14:354][649]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_LevelCard.W_LevelCard]
+[2025.12.10-17.10.14:354][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-17.10.14:354][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelCard" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset" SILENT=true
+[2025.12.10-17.10.14:358][649]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelCard
+[2025.12.10-17.10.14:358][649]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCard6B1F25FB4C9AE0379F04ADAD3C68E79B.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset'
+[2025.12.10-17.10.14:367][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.303 ms (total: 2.80 sec)
+[2025.12.10-17.10.14:394][649]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.10.14:394][649]LogContentValidation: Enabled validators:
+[2025.12.10-17.10.14:394][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.10.14:394][649]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.10.14:394][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.10.14:394][649]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.10.14:394][649]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.10.14:394][649]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.10.14:395][649]AssetCheck: /Game/GUI/W_LevelCard Validating asset
+[2025.12.10-17.10.14:748][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.10.14:767][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-17.10.14:767][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-17.10.14:767][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelCard" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset" SILENT=true
+[2025.12.10-17.10.14:771][678]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelCard
+[2025.12.10-17.10.14:771][678]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCardF33703424AB8108B4AABF9A8C0E8DC90.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset'
+[2025.12.10-17.10.14:777][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.036 ms (total: 2.83 sec)
+[2025.12.10-17.10.14:800][678]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.10.14:800][678]LogContentValidation: Enabled validators:
+[2025.12.10-17.10.14:800][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.10.14:800][678]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.10.14:800][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.10.14:800][678]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.10.14:800][678]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.10.14:800][678]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.10.14:801][678]AssetCheck: /Game/GUI/W_LevelCard Validating asset
+[2025.12.10-17.10.23:514][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.12.10-17.10.23:525][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.10.23:549][704]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-17.10.23:551][704]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_LevelCard.W_LevelCard]
+[2025.12.10-17.10.23:551][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-17.10.23:551][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelCard" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset" SILENT=true
+[2025.12.10-17.10.23:555][704]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelCard
+[2025.12.10-17.10.23:556][704]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCard3A4CA4DE44B694149FE949B942403AAA.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset'
+[2025.12.10-17.10.23:561][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.960 ms (total: 2.87 sec)
+[2025.12.10-17.10.23:589][704]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.10.23:589][704]LogContentValidation: Enabled validators:
+[2025.12.10-17.10.23:589][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.10.23:589][704]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.10.23:589][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.10.23:589][704]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.10.23:589][704]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.10.23:589][704]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.10.23:590][704]AssetCheck: /Game/GUI/W_LevelCard Validating asset
+[2025.12.10-17.10.23:908][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.10.23:928][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-17.10.23:928][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-17.10.23:928][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelCard" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset" SILENT=true
+[2025.12.10-17.10.23:932][731]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelCard
+[2025.12.10-17.10.23:932][731]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCard8599B84C45F0D67E484889B145AE65F1.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset'
+[2025.12.10-17.10.23:938][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.666 ms (total: 2.90 sec)
+[2025.12.10-17.10.23:967][731]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.10.23:967][731]LogContentValidation: Enabled validators:
+[2025.12.10-17.10.23:967][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.10.23:967][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.10.23:967][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.10.23:967][731]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.10.23:967][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.10.23:967][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.10.23:968][731]AssetCheck: /Game/GUI/W_LevelCard Validating asset
+[2025.12.10-17.11.46:273][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.12.10-17.11.46:275][692]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GUI/MainMenu' took 0.089
+[2025.12.10-17.11.46:276][692]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-17.11.46:278][692]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_LevelCard.W_LevelCard]
+[2025.12.10-17.11.46:278][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-17.11.46:282][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GUI/W_LevelCard_Auto7
+[2025.12.10-17.11.46:282][692]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCard_Auto7D4F3CEC2430106C75728EF902AB2B1E4.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/Autosaves/Game/GUI/W_LevelCard_Auto7.uasset'
+[2025.12.10-17.11.46:282][692]LogFileHelpers: Auto-saving content packages took 0.007
+[2025.12.10-17.12.23:658][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.12.10-17.12.23:671][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.12.23:695][200]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-17.12.23:696][200]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_LevelCard.W_LevelCard]
+[2025.12.10-17.12.23:696][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-17.12.23:696][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelCard" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset" SILENT=true
+[2025.12.10-17.12.23:700][200]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelCard
+[2025.12.10-17.12.23:701][200]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCardC168381E44435319F291DEB55715980C.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset'
+[2025.12.10-17.12.23:708][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.959 ms (total: 2.94 sec)
+[2025.12.10-17.12.23:733][200]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.12.23:733][200]LogContentValidation: Enabled validators:
+[2025.12.10-17.12.23:733][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.12.23:733][200]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.12.23:733][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.12.23:733][200]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.12.23:733][200]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.12.23:733][200]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.12.23:734][200]AssetCheck: /Game/GUI/W_LevelCard Validating asset
+[2025.12.10-17.12.23:867][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.12.10-17.12.24:601][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.12.24:624][274]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-17.12.24:626][274]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_LevelCard.W_LevelCard]
+[2025.12.10-17.12.24:626][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-17.12.24:626][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelCard" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset" SILENT=true
+[2025.12.10-17.12.24:630][274]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelCard
+[2025.12.10-17.12.24:630][274]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCardC523A6DF491193717C8A77A761AD9508.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset'
+[2025.12.10-17.12.24:637][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.964 ms (total: 2.97 sec)
+[2025.12.10-17.12.24:657][274]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.12.24:657][274]LogContentValidation: Enabled validators:
+[2025.12.10-17.12.24:657][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.12.24:657][274]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.12.24:657][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.12.24:657][274]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.12.24:657][274]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.12.24:657][274]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.12.24:657][274]AssetCheck: /Game/GUI/W_LevelCard Validating asset
+[2025.12.10-17.14.05:078][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.12.10-17.14.05:093][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.14.05:119][824]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-17.14.05:120][824]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_LevelCard.W_LevelCard]
+[2025.12.10-17.14.05:120][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-17.14.05:120][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelCard" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset" SILENT=true
+[2025.12.10-17.14.05:126][824]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelCard
+[2025.12.10-17.14.05:126][824]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCardCD2EC18B4A95AFAD9FB7A9803BB7EC22.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset'
+[2025.12.10-17.14.05:134][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.985 ms (total: 3.01 sec)
+[2025.12.10-17.14.05:157][824]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.14.05:157][824]LogContentValidation: Enabled validators:
+[2025.12.10-17.14.05:157][824]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.14.05:157][824]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.14.05:157][824]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.14.05:157][824]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.14.05:157][824]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.14.05:157][824]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.14.05:158][824]AssetCheck: /Game/GUI/W_LevelCard Validating asset
+[2025.12.10-17.14.05:361][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.14.05:380][836]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-17.14.05:380][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-17.14.05:380][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelCard" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset" SILENT=true
+[2025.12.10-17.14.05:385][836]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelCard
+[2025.12.10-17.14.05:385][836]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCardD79C9E8249D06B5C47C81FB988138367.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset'
+[2025.12.10-17.14.05:391][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.841 ms (total: 3.04 sec)
+[2025.12.10-17.14.05:419][836]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.14.05:419][836]LogContentValidation: Enabled validators:
+[2025.12.10-17.14.05:419][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.14.05:419][836]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.14.05:419][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.14.05:419][836]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.14.05:419][836]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.14.05:419][836]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.14.05:420][836]AssetCheck: /Game/GUI/W_LevelCard Validating asset
+[2025.12.10-17.14.26:281][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.12.10-17.14.26:299][178]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.14.26:325][178]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-17.14.26:327][178]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_LevelCard.W_LevelCard]
+[2025.12.10-17.14.26:327][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-17.14.26:327][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelCard" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset" SILENT=true
+[2025.12.10-17.14.26:332][178]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelCard
+[2025.12.10-17.14.26:333][178]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCard2BA1E5154CC017104C2A52A6A0C82073.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset'
+[2025.12.10-17.14.26:341][178]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.991 ms (total: 3.08 sec)
+[2025.12.10-17.14.26:369][178]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.14.26:369][178]LogContentValidation: Enabled validators:
+[2025.12.10-17.14.26:369][178]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.14.26:369][178]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.14.26:369][178]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.14.26:369][178]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.14.26:369][178]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.14.26:369][178]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.14.26:370][178]AssetCheck: /Game/GUI/W_LevelCard Validating asset
+[2025.12.10-17.14.26:600][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.14.26:619][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-17.14.26:619][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-17.14.26:619][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelCard" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset" SILENT=true
+[2025.12.10-17.14.26:625][192]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelCard
+[2025.12.10-17.14.26:625][192]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCard57C157A9472B6AC74ACA458CA4187866.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset'
+[2025.12.10-17.14.26:631][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.721 ms (total: 3.11 sec)
+[2025.12.10-17.14.26:657][192]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.14.26:657][192]LogContentValidation: Enabled validators:
+[2025.12.10-17.14.26:657][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.14.26:657][192]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.14.26:657][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.14.26:657][192]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.14.26:657][192]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.14.26:657][192]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.14.26:658][192]AssetCheck: /Game/GUI/W_LevelCard Validating asset
+[2025.12.10-17.15.22:879][888]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41987.683594
+[2025.12.10-17.15.22:937][895]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-17.15.22:937][895]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41987.730469, Update Interval: 324.555206
+[2025.12.10-17.15.27:948][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.12.10-17.15.27:968][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.15.27:992][476]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-17.15.27:994][476]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_LevelCard.W_LevelCard]
+[2025.12.10-17.15.27:994][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-17.15.27:994][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelCard" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset" SILENT=true
+[2025.12.10-17.15.28:000][476]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelCard
+[2025.12.10-17.15.28:000][476]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCardF73D28E8470DBB3913C3AA9D30C0CD36.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset'
+[2025.12.10-17.15.28:008][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.819 ms (total: 3.15 sec)
+[2025.12.10-17.15.28:037][476]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.15.28:037][476]LogContentValidation: Enabled validators:
+[2025.12.10-17.15.28:037][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.15.28:037][476]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.15.28:037][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.15.28:037][476]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.15.28:037][476]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.15.28:037][476]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.15.28:038][476]AssetCheck: /Game/GUI/W_LevelCard Validating asset
+[2025.12.10-17.15.38:812][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.12.10-17.15.38:833][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.15.38:859][722]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-17.15.38:861][722]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_LevelCard.W_LevelCard]
+[2025.12.10-17.15.38:861][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-17.15.38:861][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelCard" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset" SILENT=true
+[2025.12.10-17.15.38:868][722]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelCard
+[2025.12.10-17.15.38:868][722]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCardF34BE1A945454FA7DC6ABC8EA9B91526.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset'
+[2025.12.10-17.15.38:877][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.455 ms (total: 3.20 sec)
+[2025.12.10-17.15.38:902][722]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.15.38:902][722]LogContentValidation: Enabled validators:
+[2025.12.10-17.15.38:902][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.15.38:902][722]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.15.38:902][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.15.38:902][722]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.15.38:902][722]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.15.38:902][722]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.15.38:903][722]AssetCheck: /Game/GUI/W_LevelCard Validating asset
+[2025.12.10-17.16.13:922][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.12.10-17.16.14:047][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.16.14:071][825]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_LevelSelect] ([2] browsable assets)...
+[2025.12.10-17.16.14:076][825]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_LevelSelect.W_LevelSelect]
+[2025.12.10-17.16.14:076][825]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelSelect]
+[2025.12.10-17.16.14:076][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelSelect" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelSelect.uasset" SILENT=true
+[2025.12.10-17.16.14:087][825]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelSelect
+[2025.12.10-17.16.14:088][825]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelSelect72BD56D94E75DABB0CB123AA1BFB6F36.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelSelect.uasset'
+[2025.12.10-17.16.14:096][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.776 ms (total: 3.25 sec)
+[2025.12.10-17.16.14:137][825]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.16.14:138][825]LogContentValidation: Enabled validators:
+[2025.12.10-17.16.14:138][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.16.14:138][825]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.16.14:138][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.16.14:138][825]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.16.14:138][825]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.16.14:138][825]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.16.14:141][825]AssetCheck: /Game/GUI/W_LevelSelect Validating asset
+[2025.12.10-17.16.14:588][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.16.14:615][863]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/W_LevelSelect] ([2] browsable assets)...
+[2025.12.10-17.16.14:615][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelSelect]
+[2025.12.10-17.16.14:615][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelSelect" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelSelect.uasset" SILENT=true
+[2025.12.10-17.16.14:626][863]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelSelect
+[2025.12.10-17.16.14:626][863]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelSelect6AC0E14342DBFC1E254A36B93EE85090.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelSelect.uasset'
+[2025.12.10-17.16.14:632][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.322 ms (total: 3.29 sec)
+[2025.12.10-17.16.14:654][863]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.16.14:654][863]LogContentValidation: Enabled validators:
+[2025.12.10-17.16.14:654][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.16.14:654][863]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.16.14:654][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.16.14:654][863]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.16.14:654][863]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.16.14:654][863]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.16.14:657][863]AssetCheck: /Game/GUI/W_LevelSelect Validating asset
+[2025.12.10-17.16.30:808][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.12.10-17.16.30:928][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.16.30:955][739]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_LevelSelect] ([2] browsable assets)...
+[2025.12.10-17.16.30:960][739]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_LevelSelect.W_LevelSelect]
+[2025.12.10-17.16.30:960][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelSelect]
+[2025.12.10-17.16.30:960][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelSelect" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelSelect.uasset" SILENT=true
+[2025.12.10-17.16.30:969][739]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelSelect
+[2025.12.10-17.16.30:970][739]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelSelectAD755C3F47E4CB6D8F40F99127073BA1.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelSelect.uasset'
+[2025.12.10-17.16.30:978][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.657 ms (total: 3.34 sec)
+[2025.12.10-17.16.31:038][739]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.16.31:038][739]LogContentValidation: Enabled validators:
+[2025.12.10-17.16.31:038][739]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.16.31:038][739]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.16.31:038][739]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.16.31:038][739]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.16.31:038][739]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.16.31:038][739]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.16.31:040][739]AssetCheck: /Game/GUI/W_LevelSelect Validating asset
+[2025.12.10-17.16.31:205][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.16.31:232][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/W_LevelSelect] ([2] browsable assets)...
+[2025.12.10-17.16.31:232][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelSelect]
+[2025.12.10-17.16.31:232][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelSelect" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelSelect.uasset" SILENT=true
+[2025.12.10-17.16.31:243][744]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelSelect
+[2025.12.10-17.16.31:243][744]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelSelect07F55BB94F960A315CE247A93A86F710.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelSelect.uasset'
+[2025.12.10-17.16.31:251][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.151 ms (total: 3.38 sec)
+[2025.12.10-17.16.31:276][744]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.16.31:276][744]LogContentValidation: Enabled validators:
+[2025.12.10-17.16.31:276][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.16.31:276][744]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.16.31:276][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.16.31:276][744]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.16.31:276][744]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.16.31:276][744]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.16.31:279][744]AssetCheck: /Game/GUI/W_LevelSelect Validating asset
+[2025.12.10-17.16.38:786][643]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-17.16.38:807][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.12.10-17.16.56:919][656]LogBlueprint: Warning: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\GUI\W_MainMenu.uasset: [Compiler] Could not find a variable named "LoadGame" in '/Game/GUI/W_MainMenu.W_MainMenu_C'.
+Make sure '/Game/GUI/W_MainMenu.W_MainMenu_C' has been compiled for  Get LoadGame
+[2025.12.10-17.16.56:920][656]LogBlueprint: Warning: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\GUI\W_MainMenu.uasset: [Compiler] Could not find a variable named "LoadGame" in '/Game/GUI/W_MainMenu.W_MainMenu_C'.
+Make sure '/Game/GUI/W_MainMenu.W_MainMenu_C' has been compiled for  Get LoadGame
+[2025.12.10-17.16.56:920][656]LogBlueprint: Warning: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\GUI\W_MainMenu.uasset: [Compiler] On Unhovered (LoadGame)  does not have a valid matching component!
+[2025.12.10-17.16.56:920][656]LogBlueprint: Warning: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\GUI\W_MainMenu.uasset: [Compiler] On Hovered (LoadGame)  does not have a valid matching component!
+[2025.12.10-17.16.56:920][656]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\GUI\W_MainMenu.uasset: [Compiler] The property associated with  Load Game  could not be found in '/Game/GUI/W_MainMenu.W_MainMenu_C'
+[2025.12.10-17.16.56:921][656]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\GUI\W_MainMenu.uasset: [Compiler] The property associated with  Load Game  could not be found in '/Game/GUI/W_MainMenu.W_MainMenu_C'
+[2025.12.10-17.16.56:961][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.12.10-17.16.56:991][656]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.16.57:017][656]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_MainMenu] ([2] browsable assets)...
+[2025.12.10-17.16.57:019][656]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_MainMenu.W_MainMenu]
+[2025.12.10-17.16.57:019][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_MainMenu]
+[2025.12.10-17.16.57:019][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_MainMenu" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_MainMenu.uasset" SILENT=true
+[2025.12.10-17.16.57:027][656]LogSavePackage: Moving output files for package: /Game/GUI/W_MainMenu
+[2025.12.10-17.16.57:028][656]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_MainMenu4264894B444C47156D358A83CCD9D8AC.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_MainMenu.uasset'
+[2025.12.10-17.16.57:035][656]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.714 ms (total: 3.43 sec)
+[2025.12.10-17.16.57:055][656]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.16.57:055][656]LogContentValidation: Enabled validators:
+[2025.12.10-17.16.57:055][656]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.16.57:055][656]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.16.57:055][656]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.16.57:055][656]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.16.57:055][656]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.16.57:055][656]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.16.57:056][656]AssetCheck: /Game/GUI/W_MainMenu Validating asset
+[2025.12.10-17.17.03:611][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.12.10-17.17.03:652][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.17.03:673][361]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_MainMenu] ([2] browsable assets)...
+[2025.12.10-17.17.03:675][361]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_MainMenu.W_MainMenu]
+[2025.12.10-17.17.03:675][361]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_MainMenu]
+[2025.12.10-17.17.03:675][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_MainMenu" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_MainMenu.uasset" SILENT=true
+[2025.12.10-17.17.03:682][361]LogSavePackage: Moving output files for package: /Game/GUI/W_MainMenu
+[2025.12.10-17.17.03:683][361]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_MainMenu7AD6285C490B5185AE54B18279F49D91.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_MainMenu.uasset'
+[2025.12.10-17.17.03:690][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.353 ms (total: 3.47 sec)
+[2025.12.10-17.17.03:710][361]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.17.03:710][361]LogContentValidation: Enabled validators:
+[2025.12.10-17.17.03:710][361]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.17.03:710][361]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.17.03:710][361]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.17.03:710][361]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.17.03:710][361]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.17.03:710][361]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.17.03:711][361]AssetCheck: /Game/GUI/W_MainMenu Validating asset
+[2025.12.10-17.17.04:448][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.17.04:465][434]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/W_MainMenu] ([2] browsable assets)...
+[2025.12.10-17.17.04:465][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_MainMenu]
+[2025.12.10-17.17.04:465][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_MainMenu" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_MainMenu.uasset" SILENT=true
+[2025.12.10-17.17.04:473][434]LogSavePackage: Moving output files for package: /Game/GUI/W_MainMenu
+[2025.12.10-17.17.04:473][434]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_MainMenu7DFB448641FD42C5960B119F9CB891B4.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_MainMenu.uasset'
+[2025.12.10-17.17.04:479][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.583 ms (total: 3.50 sec)
+[2025.12.10-17.17.04:504][434]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.17.04:504][434]LogContentValidation: Enabled validators:
+[2025.12.10-17.17.04:504][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.17.04:504][434]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.17.04:504][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.17.04:504][434]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.17.04:504][434]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.17.04:504][434]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.17.04:505][434]AssetCheck: /Game/GUI/W_MainMenu Validating asset
+[2025.12.10-17.17.04:599][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.17.04:620][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/W_MainMenu] ([2] browsable assets)...
+[2025.12.10-17.17.04:621][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_MainMenu]
+[2025.12.10-17.17.04:621][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_MainMenu" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_MainMenu.uasset" SILENT=true
+[2025.12.10-17.17.04:628][443]LogSavePackage: Moving output files for package: /Game/GUI/W_MainMenu
+[2025.12.10-17.17.04:628][443]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_MainMenu46B5E8544BFD1446E8140AA1893F4A49.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_MainMenu.uasset'
+[2025.12.10-17.17.04:635][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.341 ms (total: 3.53 sec)
+[2025.12.10-17.17.04:661][443]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.17.04:661][443]LogContentValidation: Enabled validators:
+[2025.12.10-17.17.04:661][443]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.17.04:661][443]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.17.04:661][443]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.17.04:661][443]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.17.04:661][443]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.17.04:661][443]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.17.04:661][443]AssetCheck: /Game/GUI/W_MainMenu Validating asset
+[2025.12.10-17.17.05:581][552]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-17.17.05:601][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.12.10-17.18.09:960][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.12.10-17.18.10:036][263]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.18.10:062][263]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-17.18.10:065][263]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_LevelCard.W_LevelCard]
+[2025.12.10-17.18.10:065][263]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-17.18.10:065][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelCard" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset" SILENT=true
+[2025.12.10-17.18.10:070][263]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelCard
+[2025.12.10-17.18.10:072][263]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCard00A88EC74CDA5DC76B65468D039765BD.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset'
+[2025.12.10-17.18.10:079][263]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.778 ms (total: 3.58 sec)
+[2025.12.10-17.18.10:116][263]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.18.10:116][263]LogContentValidation: Enabled validators:
+[2025.12.10-17.18.10:116][263]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.18.10:116][263]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.18.10:116][263]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.18.10:116][263]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.18.10:116][263]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.18.10:116][263]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.18.10:117][263]AssetCheck: /Game/GUI/W_LevelCard Validating asset
+[2025.12.10-17.18.10:388][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.18.10:405][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-17.18.10:405][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-17.18.10:405][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_LevelCard" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset" SILENT=true
+[2025.12.10-17.18.10:411][279]LogSavePackage: Moving output files for package: /Game/GUI/W_LevelCard
+[2025.12.10-17.18.10:411][279]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCardD024C5A64DF5343125A374A2F9A7B54E.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_LevelCard.uasset'
+[2025.12.10-17.18.10:417][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.201 ms (total: 3.61 sec)
+[2025.12.10-17.18.10:445][279]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.18.10:445][279]LogContentValidation: Enabled validators:
+[2025.12.10-17.18.10:445][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.18.10:445][279]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.18.10:445][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.18.10:445][279]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.18.10:445][279]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.18.10:445][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.18.10:445][279]AssetCheck: /Game/GUI/W_LevelCard Validating asset
+[2025.12.10-17.18.11:944][457]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-17.18.11:964][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.12.10-17.18.37:859][686]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GUI/W_Results.W_Results
+[2025.12.10-17.18.37:859][686]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_71
+[2025.12.10-17.18.37:859][686]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_71'.
+[2025.12.10-17.18.37:863][686]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_72
+[2025.12.10-17.18.37:863][686]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_72'.
+[2025.12.10-17.20.22:730][854]LogEditorTransaction: Undo Move Widget
+[2025.12.10-17.20.30:561][745]LogEditorTransaction: Undo Remove Widget
+[2025.12.10-17.20.30:874][760]LogEditorTransaction: Undo Move Widget
+[2025.12.10-17.20.31:257][791]LogEditorTransaction: Undo Remove Widget
+[2025.12.10-17.20.31:972][875]LogEditorTransaction: Undo Remove Widget
+[2025.12.10-17.20.32:488][935]LogEditorTransaction: Undo Paste clipboard contents
+[2025.12.10-17.20.52:908][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.12.10-17.20.52:996][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.20.53:019][274]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_Results] ([2] browsable assets)...
+[2025.12.10-17.20.53:022][274]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_Results.W_Results]
+[2025.12.10-17.20.53:022][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Results]
+[2025.12.10-17.20.53:022][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Results" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset" SILENT=true
+[2025.12.10-17.20.53:027][274]LogSavePackage: Moving output files for package: /Game/GUI/W_Results
+[2025.12.10-17.20.53:027][274]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_ResultsEA275BFC4A416A9DEAE27F9CAA91227F.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset'
+[2025.12.10-17.20.53:035][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.589 ms (total: 3.65 sec)
+[2025.12.10-17.20.53:069][274]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.20.53:069][274]LogContentValidation: Enabled validators:
+[2025.12.10-17.20.53:069][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.20.53:069][274]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.20.53:069][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.20.53:069][274]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.20.53:069][274]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.20.53:069][274]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.20.53:070][274]AssetCheck: /Game/GUI/W_Results Validating asset
+[2025.12.10-17.20.53:447][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.20.53:468][301]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/W_Results] ([2] browsable assets)...
+[2025.12.10-17.20.53:468][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Results]
+[2025.12.10-17.20.53:468][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Results" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset" SILENT=true
+[2025.12.10-17.20.53:473][301]LogSavePackage: Moving output files for package: /Game/GUI/W_Results
+[2025.12.10-17.20.53:473][301]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_ResultsE68E58454F9BF45DFFB98A9DE3EE5147.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset'
+[2025.12.10-17.20.53:478][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 32.261 ms (total: 3.68 sec)
+[2025.12.10-17.20.53:508][301]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.20.53:508][301]LogContentValidation: Enabled validators:
+[2025.12.10-17.20.53:508][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.20.53:508][301]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.20.53:508][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.20.53:508][301]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.20.53:508][301]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.20.53:508][301]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.20.53:509][301]AssetCheck: /Game/GUI/W_Results Validating asset
+[2025.12.10-17.21.15:848][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.12.10-17.21.15:867][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.21.15:890][848]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_Results] ([2] browsable assets)...
+[2025.12.10-17.21.15:892][848]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_Results.W_Results]
+[2025.12.10-17.21.15:892][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Results]
+[2025.12.10-17.21.15:892][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Results" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset" SILENT=true
+[2025.12.10-17.21.15:897][848]LogSavePackage: Moving output files for package: /Game/GUI/W_Results
+[2025.12.10-17.21.15:898][848]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_Results4260B67F431FC7B5B6D3FC81E515769B.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset'
+[2025.12.10-17.21.15:904][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.070 ms (total: 3.72 sec)
+[2025.12.10-17.21.15:924][848]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.21.15:924][848]LogContentValidation: Enabled validators:
+[2025.12.10-17.21.15:924][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.21.15:924][848]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.21.15:924][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.21.15:924][848]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.21.15:924][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.21.15:924][848]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.21.15:925][848]AssetCheck: /Game/GUI/W_Results Validating asset
+[2025.12.10-17.21.16:322][880]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.21.16:341][880]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/W_Results] ([2] browsable assets)...
+[2025.12.10-17.21.16:341][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Results]
+[2025.12.10-17.21.16:341][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Results" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset" SILENT=true
+[2025.12.10-17.21.16:345][880]LogSavePackage: Moving output files for package: /Game/GUI/W_Results
+[2025.12.10-17.21.16:345][880]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_Results9DFE5501417E9324CD25A6A70676CDDF.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset'
+[2025.12.10-17.21.16:351][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.043 ms (total: 3.74 sec)
+[2025.12.10-17.21.16:373][880]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.21.16:373][880]LogContentValidation: Enabled validators:
+[2025.12.10-17.21.16:373][880]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.21.16:373][880]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.21.16:373][880]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.21.16:373][880]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.21.16:373][880]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.21.16:373][880]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.21.16:374][880]AssetCheck: /Game/GUI/W_Results Validating asset
+[2025.12.10-17.21.46:416][474]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42352.906250
+[2025.12.10-17.21.46:492][483]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-17.21.46:492][483]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42352.968750, Update Interval: 309.347809
+[2025.12.10-17.22.13:319][677]LogBlueprint: Warning: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\GUI\W_Results.uasset: [Compiler] Variable ThisScore is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2025.12.10-17.22.14:194][776]LogBlueprint: Warning: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\GUI\W_Results.uasset: [Compiler] Variable ThisScore is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2025.12.10-17.22.14:225][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.12.10-17.22.14:245][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.22.14:265][776]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_Results] ([2] browsable assets)...
+[2025.12.10-17.22.14:266][776]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_Results.W_Results]
+[2025.12.10-17.22.14:266][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Results]
+[2025.12.10-17.22.14:266][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Results" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset" SILENT=true
+[2025.12.10-17.22.14:270][776]LogSavePackage: Moving output files for package: /Game/GUI/W_Results
+[2025.12.10-17.22.14:271][776]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_Results27CAEE3B49E2F334873A988AF16892CC.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset'
+[2025.12.10-17.22.14:280][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.572 ms (total: 3.78 sec)
+[2025.12.10-17.22.14:305][776]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.22.14:305][776]LogContentValidation: Enabled validators:
+[2025.12.10-17.22.14:305][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.22.14:305][776]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.22.14:305][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.22.14:305][776]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.22.14:305][776]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.22.14:305][776]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.22.14:305][776]AssetCheck: /Game/GUI/W_Results Validating asset
+[2025.12.10-17.22.14:744][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.22.14:768][811]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/W_Results] ([2] browsable assets)...
+[2025.12.10-17.22.14:768][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Results]
+[2025.12.10-17.22.14:768][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Results" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset" SILENT=true
+[2025.12.10-17.22.14:773][811]LogSavePackage: Moving output files for package: /Game/GUI/W_Results
+[2025.12.10-17.22.14:773][811]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_Results353E3CF042549BFD778509930C6D6D26.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset'
+[2025.12.10-17.22.14:780][811]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.268 ms (total: 3.82 sec)
+[2025.12.10-17.22.14:802][811]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.22.14:802][811]LogContentValidation: Enabled validators:
+[2025.12.10-17.22.14:802][811]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.22.14:802][811]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.22.14:802][811]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.22.14:802][811]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.22.14:802][811]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.22.14:802][811]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.22.14:802][811]AssetCheck: /Game/GUI/W_Results Validating asset
+[2025.12.10-17.22.19:583][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.12.10-17.22.19:603][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.22.19:625][374]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_Results] ([2] browsable assets)...
+[2025.12.10-17.22.19:626][374]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_Results.W_Results]
+[2025.12.10-17.22.19:626][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Results]
+[2025.12.10-17.22.19:626][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Results" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset" SILENT=true
+[2025.12.10-17.22.19:631][374]LogSavePackage: Moving output files for package: /Game/GUI/W_Results
+[2025.12.10-17.22.19:631][374]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_ResultsDFD7D75D48BC8F65AA60619F926375D8.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset'
+[2025.12.10-17.22.19:639][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.911 ms (total: 3.85 sec)
+[2025.12.10-17.22.19:664][374]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.22.19:664][374]LogContentValidation: Enabled validators:
+[2025.12.10-17.22.19:664][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.22.19:664][374]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.22.19:664][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.22.19:664][374]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.22.19:664][374]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.22.19:664][374]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.22.19:665][374]AssetCheck: /Game/GUI/W_Results Validating asset
+[2025.12.10-17.22.20:282][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.22.20:308][432]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/W_Results] ([2] browsable assets)...
+[2025.12.10-17.22.20:308][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Results]
+[2025.12.10-17.22.20:308][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Results" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset" SILENT=true
+[2025.12.10-17.22.20:312][432]LogSavePackage: Moving output files for package: /Game/GUI/W_Results
+[2025.12.10-17.22.20:313][432]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_Results04BCFCE74BF1A7810FDDDBA479DE7389.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset'
+[2025.12.10-17.22.20:319][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.512 ms (total: 3.89 sec)
+[2025.12.10-17.22.20:347][432]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.22.20:347][432]LogContentValidation: Enabled validators:
+[2025.12.10-17.22.20:347][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.22.20:347][432]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.22.20:347][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.22.20:347][432]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.22.20:347][432]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.22.20:347][432]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.22.20:348][432]AssetCheck: /Game/GUI/W_Results Validating asset
+[2025.12.10-17.25.59:767][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.12.10-17.25.59:800][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.25.59:817][227]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_Results] ([2] browsable assets)...
+[2025.12.10-17.25.59:818][227]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_Results.W_Results]
+[2025.12.10-17.25.59:818][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Results]
+[2025.12.10-17.25.59:818][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Results" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset" SILENT=true
+[2025.12.10-17.25.59:826][227]LogSavePackage: Moving output files for package: /Game/GUI/W_Results
+[2025.12.10-17.25.59:826][227]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_ResultsD6B050CA469610FA19B40788BA5F9C66.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset'
+[2025.12.10-17.25.59:833][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.558 ms (total: 3.92 sec)
+[2025.12.10-17.25.59:860][227]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.25.59:860][227]LogContentValidation: Enabled validators:
+[2025.12.10-17.25.59:860][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.25.59:860][227]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.25.59:860][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.25.59:860][227]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.25.59:860][227]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.25.59:860][227]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.25.59:861][227]AssetCheck: /Game/GUI/W_Results Validating asset
+[2025.12.10-17.26.00:268][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-17.26.00:289][258]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUI/W_Results] ([2] browsable assets)...
+[2025.12.10-17.26.00:289][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_Results]
+[2025.12.10-17.26.00:289][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_Results" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset" SILENT=true
+[2025.12.10-17.26.00:295][258]LogSavePackage: Moving output files for package: /Game/GUI/W_Results
+[2025.12.10-17.26.00:296][258]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_ResultsA928104B4C999602A5BE62AF878E9BC3.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_Results.uasset'
+[2025.12.10-17.26.00:303][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.004 ms (total: 3.96 sec)
+[2025.12.10-17.26.00:328][258]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-17.26.00:328][258]LogContentValidation: Enabled validators:
+[2025.12.10-17.26.00:328][258]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-17.26.00:328][258]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-17.26.00:328][258]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-17.26.00:328][258]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-17.26.00:328][258]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-17.26.00:328][258]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-17.26.00:329][258]AssetCheck: /Game/GUI/W_Results Validating asset

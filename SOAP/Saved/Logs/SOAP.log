@@ -4346,3 +4346,618 @@ Make sure '/Game/GUI/W_MainMenu.W_MainMenu_C' has been compiled for  Get LoadGam
 [2025.12.10-18.07.02:380][777]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.10-18.07.02:380][777]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.10-18.07.02:381][777]AssetCheck: /Game/GUI/W_HUD Validating asset
+[2025.12.10-18.09.47:398][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.12.10-18.09.47:402][949]LogStreaming: Display: FlushAsyncLoading(649): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-18.09.47:647][949]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.12.10-18.09.47:647][949]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap'.
+[2025.12.10-18.09.47:651][949]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.12.10-18.09.47:651][949]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.10-18.09.47:651][949]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.10-18.09.47:751][949]LogWorldPartition: Display: WorldPartition initialize took 99.736 ms (total: 753.488 ms)
+[2025.12.10-18.09.47:767][949]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.12.10-18.09.47:771][949]Cmd: MAP LOAD FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.12.10-18.09.47:835][949]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.09.47:835][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.09.47:851][949]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-18.09.47:858][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.12.10-18.09.47:860][949]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.09.47:861][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.09.47:861][949]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.12.10-18.09.47:878][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.12.10-18.09.47:892][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.12.10-18.09.48:107][949]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2025.12.10-18.09.48:107][949]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.12.10-18.09.48:108][949]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap'.
+[2025.12.10-18.09.48:109][949]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.12.10-18.09.48:109][949]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.10-18.09.48:109][949]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.10-18.09.48:131][949]LogWorldPartition: Display: WorldPartition initialize took 22.545 ms (total: 776.034 ms)
+[2025.12.10-18.09.48:183][949]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.10-18.09.48:200][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.12.10-18.09.48:214][949]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.10-18.09.48:218][949]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.002ms to complete.
+[2025.12.10-18.10.09:355][441]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-18.10.09:378][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.12.10-18.10.16:298][640]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 45201.199219
+[2025.12.10-18.10.17:300][643]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-18.10.17:300][643]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 45201.867188, Update Interval: 318.168274
+[2025.12.10-18.10.51:206][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.12.10-18.10.51:330][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-18.10.51:364][296]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CoverageSys/Blueprints/BP_Canvas] ([2] browsable assets)...
+[2025.12.10-18.10.51:373][296]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CoverageSys/Blueprints/BP_Canvas.BP_Canvas]
+[2025.12.10-18.10.51:373][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/CoverageSys/Blueprints/BP_Canvas]
+[2025.12.10-18.10.51:373][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CoverageSys/Blueprints/BP_Canvas" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/Blueprints/BP_Canvas.uasset" SILENT=true
+[2025.12.10-18.10.51:384][296]LogSavePackage: Moving output files for package: /Game/CoverageSys/Blueprints/BP_Canvas
+[2025.12.10-18.10.51:384][296]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_Canvas4E0705804F7A1DDD76037390066B9C0E.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/Blueprints/BP_Canvas.uasset'
+[2025.12.10-18.10.51:393][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.230 ms (total: 4.46 sec)
+[2025.12.10-18.10.51:423][296]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-18.10.51:423][296]LogContentValidation: Enabled validators:
+[2025.12.10-18.10.51:423][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-18.10.51:423][296]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-18.10.51:423][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-18.10.51:423][296]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-18.10.51:423][296]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-18.10.51:423][296]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-18.10.51:423][296]AssetCheck: /Game/CoverageSys/Blueprints/BP_Canvas Validating asset
+[2025.12.10-18.10.51:782][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-18.10.51:814][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CoverageSys/Blueprints/BP_Canvas] ([2] browsable assets)...
+[2025.12.10-18.10.51:814][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/CoverageSys/Blueprints/BP_Canvas]
+[2025.12.10-18.10.51:814][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CoverageSys/Blueprints/BP_Canvas" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/Blueprints/BP_Canvas.uasset" SILENT=true
+[2025.12.10-18.10.51:825][316]LogSavePackage: Moving output files for package: /Game/CoverageSys/Blueprints/BP_Canvas
+[2025.12.10-18.10.51:826][316]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_CanvasB11F40AF4B7E318AFD4934B69150A6CA.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/CoverageSys/Blueprints/BP_Canvas.uasset'
+[2025.12.10-18.10.51:834][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.609 ms (total: 4.51 sec)
+[2025.12.10-18.10.51:861][316]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-18.10.51:861][316]LogContentValidation: Enabled validators:
+[2025.12.10-18.10.51:862][316]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-18.10.51:862][316]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-18.10.51:862][316]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-18.10.51:862][316]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-18.10.51:862][316]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-18.10.51:862][316]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-18.10.51:862][316]AssetCheck: /Game/CoverageSys/Blueprints/BP_Canvas Validating asset
+[2025.12.10-18.10.52:805][424]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-18.10.52:828][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: ================================================
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Total job queries 316, among them cache hits 55 (17.41%), DDC hits 192 (60.76%), Duplicates 5 (1.58%)
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Tracking 256 distinct input hashes that result in 222 distinct outputs (86.72%)
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: RAM used: 143.43 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Shaders Compiled: 64
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Jobs assigned 64, completed 64 (100%)
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Average time worker was idle: 4850.86 s
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Time job spent in pending queue: average 0.22 s, longest 1.10 s
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Job execution time: average 0.95 s, max 2.17 s
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Job life time (pending + execution): average 1.17 s, max 2.20
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Shader code size: average 5.898 KiB, min 284 B, max 39.434 KiB
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.34 s
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Jobs were issued in 64 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Average processing rate: 3.69 jobs/sec
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Total thread time: 35.238 s
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Total thread preprocess time: 3.652 s
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Percentage time preprocessing: 10.36%
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Effective parallelization: 2.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.75 sec, max 1.75 sec, min 1.75 sec)
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.01 sec, max 1.60 sec, min 0.43 sec)
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.84 sec, max 0.84 sec, min 0.84 sec)
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.84 sec, max 0.84 sec, min 0.84 sec)
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 0.82 sec, max 0.82 sec, min 0.82 sec)
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.01% of total time (compiled   13 times, average 0.62 sec, max 1.87 sec, min 0.36 sec)
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.39% of total time (compiled    7 times, average 0.42 sec, max 0.59 sec, min 0.31 sec)
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.76% of total time (compiled    2 times, average 1.01 sec, max 1.60 sec, min 0.43 sec)
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.96% of total time (compiled    1 times, average 1.75 sec, max 1.75 sec, min 1.75 sec)
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display:                                            FDistortionMeshPS - 4.47% of total time (compiled    4 times, average 0.39 sec, max 0.49 sec, min 0.34 sec)
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: === Material stats ===
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.10-18.11.09:723][645]LogShaderCompilers: Display: Materials Translated:    174
+[2025.12.10-18.11.09:724][645]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2025.12.10-18.11.09:724][645]LogShaderCompilers: Display: Material Translation Only: 0.04 s (54%)
+[2025.12.10-18.11.09:724][645]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.12.10-18.11.09:724][645]LogShaderCompilers: Display: Material Cache Hits: 34 (20%)
+[2025.12.10-18.11.09:724][645]LogShaderCompilers: Display: ================================================
+[2025.12.10-18.13.55:812][168]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.10-18.14.22:321][272]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-18.14.22:344][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.12.10-18.14.23:739][272]LogSlate: Window 'Save Content' being destroyed
+[2025.12.10-18.14.23:746][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-18.14.23:774][272]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3L/3PC3EDNF2L63P7PRUOWQDG
+[2025.12.10-18.14.23:774][272]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/3PC3EDNF2L63P7PRUOWQDG91E1CF454BE8E9DE34787080861176F6.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3L/3PC3EDNF2L63P7PRUOWQDG.uasset'
+[2025.12.10-18.14.23:784][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.760 ms (total: 4.55 sec)
+[2025.12.10-18.14.23:835][273]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-18.14.23:835][273]LogContentValidation: Enabled validators:
+[2025.12.10-18.14.23:835][273]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-18.14.23:835][273]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-18.14.23:835][273]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-18.14.23:835][273]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-18.14.23:835][273]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-18.14.23:835][273]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-18.14.23:836][273]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.12.10-18.14.57:620][ 19]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport
+[2025.12.10-18.14.57:620][ 19]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_92
+[2025.12.10-18.14.57:621][ 19]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_92'.
+[2025.12.10-18.15.25:175][903]Cmd: DELETE
+[2025.12.10-18.15.25:175][903]Cmd: ACTOR DELETE
+[2025.12.10-18.15.25:183][903]LogStreaming: Display: FlushAsyncLoading(733): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-18.15.25:191][903]LogEditorActor: Deleted Actor: BP_EnemySplitting_C
+[2025.12.10-18.15.25:278][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.12.10-18.15.25:282][903]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2025.12.10-18.15.29:777][427]Cmd: DELETE
+[2025.12.10-18.15.29:777][427]Cmd: ACTOR DELETE
+[2025.12.10-18.15.29:780][427]LogEditorActor: Deleted Actor: BP_EnemySplitting_C
+[2025.12.10-18.15.29:794][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.12.10-18.15.29:798][427]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.12.10-18.15.31:874][668]Cmd: DELETE
+[2025.12.10-18.15.31:874][668]Cmd: ACTOR DELETE
+[2025.12.10-18.15.31:877][668]LogEditorActor: Deleted Actor: BP_EnemySplitting_C
+[2025.12.10-18.15.31:892][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.12.10-18.15.31:897][668]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.12.10-18.15.33:853][887]Cmd: DELETE
+[2025.12.10-18.15.33:853][887]Cmd: ACTOR DELETE
+[2025.12.10-18.15.33:856][887]LogEditorActor: Deleted Actor: NewBP_EnemyTeleport_C
+[2025.12.10-18.15.33:871][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.10-18.15.33:875][887]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.12.10-18.15.37:851][344]Cmd: DELETE
+[2025.12.10-18.15.37:852][344]Cmd: ACTOR DELETE
+[2025.12.10-18.15.37:855][344]LogEditorActor: Deleted Actor: BP_EnemySplitting_C
+[2025.12.10-18.15.37:869][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.12.10-18.15.37:874][344]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.12.10-18.15.42:106][836]Cmd: DELETE
+[2025.12.10-18.15.42:106][836]Cmd: ACTOR DELETE
+[2025.12.10-18.15.42:109][836]LogEditorActor: Deleted Actor: BP_EnemyTeleport_C
+[2025.12.10-18.15.42:125][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.12.10-18.15.42:130][836]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.12.10-18.15.43:951][ 44]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport_C
+[2025.12.10-18.15.43:951][ 44]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport_C
+[2025.12.10-18.15.43:953][ 44]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport as actor: NewBP_EnemyTeleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBP_EnemyTeleport_C_0
+[2025.12.10-18.15.43:954][ 44]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport as actor: NewBP_EnemyTeleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBP_EnemyTeleport_C_0
+[2025.12.10-18.15.45:751][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.12.10-18.15.45:754][199]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.12.10-18.15.45:764][199]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport_C
+[2025.12.10-18.15.45:764][199]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport_C
+[2025.12.10-18.15.45:774][199]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport as actor: NewBP_EnemyTeleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBP_EnemyTeleport_C_UAID_C87F54A7606440AA02_1367494279
+[2025.12.10-18.15.45:776][199]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport as actor: NewBP_EnemyTeleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBP_EnemyTeleport_C_UAID_C87F54A7606440AA02_1367494279
+[2025.12.10-18.15.49:057][560]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-18.15.49:082][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.12.10-18.15.58:950][560]LogSlate: Window 'Save Content' being destroyed
+[2025.12.10-18.15.58:963][560]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-18.15.59:117][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.12.10-18.15.59:132][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.12.10-18.15.59:145][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.12.10-18.15.59:151][560]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/TY/D23WOGLYFNGLZVTKMPE3FO
+[2025.12.10-18.15.59:151][560]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/D23WOGLYFNGLZVTKMPE3FO7673DF4E4DEBFCB6CF60049437790531.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/TY/D23WOGLYFNGLZVTKMPE3FO.uasset'
+[2025.12.10-18.15.59:159][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 196.161 ms (total: 4.74 sec)
+[2025.12.10-18.15.59:196][561]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-18.15.59:196][561]LogContentValidation: Enabled validators:
+[2025.12.10-18.15.59:196][561]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-18.15.59:196][561]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-18.15.59:196][561]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-18.15.59:196][561]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-18.15.59:196][561]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-18.15.59:196][561]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-18.15.59:196][561]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.12.10-18.16.12:671][765]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 45548.656250
+[2025.12.10-18.16.13:671][768]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-18.16.13:671][768]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 45549.320312, Update Interval: 302.067322
+[2025.12.10-18.17.09:739][480]LogShaderCompilers: Display: ================================================
+[2025.12.10-18.17.09:739][480]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.10-18.17.09:739][480]LogShaderCompilers: Display: Total job queries 318, among them cache hits 55 (17.30%), DDC hits 192 (60.38%), Duplicates 5 (1.57%)
+[2025.12.10-18.17.09:739][480]LogShaderCompilers: Display: Tracking 258 distinct input hashes that result in 223 distinct outputs (86.43%)
+[2025.12.10-18.17.09:739][480]LogShaderCompilers: Display: RAM used: 143.70 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.12.10-18.17.09:739][480]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.10-18.17.09:739][480]LogShaderCompilers: Display: Shaders Compiled: 66
+[2025.12.10-18.17.09:739][480]LogShaderCompilers: Display: Jobs assigned 66, completed 66 (100%)
+[2025.12.10-18.17.09:739][480]LogShaderCompilers: Display: Average time worker was idle: 4874.33 s
+[2025.12.10-18.17.09:739][480]LogShaderCompilers: Display: Time job spent in pending queue: average 0.22 s, longest 1.10 s
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Job execution time: average 0.94 s, max 2.17 s
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Job life time (pending + execution): average 1.16 s, max 2.20
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Shader code size: average 5.946 KiB, min 284 B, max 39.434 KiB
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.25 s
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Jobs were issued in 66 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Average processing rate: 3.62 jobs/sec
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Total thread time: 36.209 s
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Total thread preprocess time: 3.676 s
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Percentage time preprocessing: 10.15%
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Effective parallelization: 1.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.75 sec, max 1.75 sec, min 1.75 sec)
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.01 sec, max 1.60 sec, min 0.43 sec)
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.84 sec, max 0.84 sec, min 0.84 sec)
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.84 sec, max 0.84 sec, min 0.84 sec)
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 0.82 sec, max 0.82 sec, min 0.82 sec)
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.87% of total time (compiled   14 times, average 0.62 sec, max 1.87 sec, min 0.36 sec)
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.37% of total time (compiled    8 times, average 0.42 sec, max 0.59 sec, min 0.31 sec)
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.61% of total time (compiled    2 times, average 1.01 sec, max 1.60 sec, min 0.43 sec)
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.83% of total time (compiled    1 times, average 1.75 sec, max 1.75 sec, min 1.75 sec)
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display:                                            FDistortionMeshPS - 4.35% of total time (compiled    4 times, average 0.39 sec, max 0.49 sec, min 0.34 sec)
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: === Material stats ===
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Materials Translated:    174
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Material Translation Only: 0.04 s (54%)
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: Material Cache Hits: 34 (20%)
+[2025.12.10-18.17.09:740][480]LogShaderCompilers: Display: ================================================
+[2025.12.10-18.17.25:972][320]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-18.17.25:996][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.12.10-18.17.29:761][320]LogSlate: Window 'Save Content' being destroyed
+[2025.12.10-18.17.29:777][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-18.17.29:812][320]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/TY/D23WOGLYFNGLZVTKMPE3FO
+[2025.12.10-18.17.29:812][320]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/D23WOGLYFNGLZVTKMPE3FOD599C9A64E3AC95D7B885BBE55ABCED0.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/TY/D23WOGLYFNGLZVTKMPE3FO.uasset'
+[2025.12.10-18.17.29:821][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.603 ms (total: 4.79 sec)
+[2025.12.10-18.17.29:871][321]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-18.17.29:872][321]LogContentValidation: Enabled validators:
+[2025.12.10-18.17.29:872][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-18.17.29:872][321]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-18.17.29:872][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-18.17.29:872][321]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-18.17.29:872][321]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-18.17.29:872][321]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-18.17.29:872][321]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.12.10-18.19.56:212][422]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/BP_EnemyTeleport.BP_EnemyTeleport
+[2025.12.10-18.19.56:212][422]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_93
+[2025.12.10-18.19.56:213][422]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_93'.
+[2025.12.10-18.20.58:768][978]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.12.10-18.21.03:912][547]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.12.10-18.21.03:920][547]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.12.10-18.21.06:150][794]LogBlueprint: Warning: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\Enemies\NewBP_EnemyTeleport.uasset: [Compiler] Could not find a variable named "Brush Size" in '/Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport_C'.
+Make sure '/Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport_C' has been compiled for  Get Brush Size
+[2025.12.10-18.21.06:151][794]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\Enemies\NewBP_EnemyTeleport.uasset: [Compiler] The property associated with  Brush Size  could not be found in '/Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport_C'
+[2025.12.10-18.21.06:325][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.12.10-18.21.06:383][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-18.21.06:413][794]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/NewBP_EnemyTeleport] ([2] browsable assets)...
+[2025.12.10-18.21.06:416][794]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport]
+[2025.12.10-18.21.06:416][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/NewBP_EnemyTeleport]
+[2025.12.10-18.21.06:416][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/NewBP_EnemyTeleport" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/NewBP_EnemyTeleport.uasset" SILENT=true
+[2025.12.10-18.21.06:427][794]LogSavePackage: Moving output files for package: /Game/Enemies/NewBP_EnemyTeleport
+[2025.12.10-18.21.06:427][794]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/NewBP_EnemyTeleport016E7A694D14839A3539FB9167F631DC.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/NewBP_EnemyTeleport.uasset'
+[2025.12.10-18.21.06:434][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.340 ms (total: 4.84 sec)
+[2025.12.10-18.21.06:467][794]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-18.21.06:467][794]LogContentValidation: Enabled validators:
+[2025.12.10-18.21.06:467][794]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-18.21.06:467][794]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-18.21.06:467][794]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-18.21.06:467][794]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-18.21.06:467][794]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-18.21.06:467][794]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-18.21.06:467][794]AssetCheck: /Game/Enemies/NewBP_EnemyTeleport Validating asset
+[2025.12.10-18.21.14:670][622]LogBlueprint: Warning: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\Enemies\NewBP_EnemyTeleport.uasset: [Compiler] Could not find a variable named "Brush Size" in '/Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport_C'.
+Make sure '/Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport_C' has been compiled for  Get Brush Size
+[2025.12.10-18.21.14:671][622]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\Enemies\NewBP_EnemyTeleport.uasset: [Compiler] The property associated with  Brush Size  could not be found in '/Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport_C'
+[2025.12.10-18.21.14:762][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.12.10-18.21.14:817][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-18.21.14:850][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/NewBP_EnemyTeleport] ([2] browsable assets)...
+[2025.12.10-18.21.14:855][622]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport]
+[2025.12.10-18.21.14:855][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/NewBP_EnemyTeleport]
+[2025.12.10-18.21.14:855][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/NewBP_EnemyTeleport" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/NewBP_EnemyTeleport.uasset" SILENT=true
+[2025.12.10-18.21.14:865][622]LogSavePackage: Moving output files for package: /Game/Enemies/NewBP_EnemyTeleport
+[2025.12.10-18.21.14:866][622]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/NewBP_EnemyTeleport008B718049884C6DB2F0BDB253969CB1.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/NewBP_EnemyTeleport.uasset'
+[2025.12.10-18.21.14:873][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.226 ms (total: 4.90 sec)
+[2025.12.10-18.21.14:942][622]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-18.21.14:942][622]LogContentValidation: Enabled validators:
+[2025.12.10-18.21.14:942][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-18.21.14:942][622]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-18.21.14:942][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-18.21.14:942][622]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-18.21.14:942][622]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-18.21.14:942][622]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-18.21.14:942][622]AssetCheck: /Game/Enemies/NewBP_EnemyTeleport Validating asset
+[2025.12.10-18.21.30:627][187]LogBlueprint: Warning: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\Enemies\NewBP_EnemyTeleport.uasset: [Compiler] Could not find a variable named "Brush Size" in '/Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport_C'.
+Make sure '/Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport_C' has been compiled for  Get Brush Size
+[2025.12.10-18.21.30:628][187]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\Enemies\NewBP_EnemyTeleport.uasset: [Compiler] The property associated with  Brush Size  could not be found in '/Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport_C'
+[2025.12.10-18.21.30:722][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.12.10-18.21.30:778][187]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-18.21.30:809][187]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/NewBP_EnemyTeleport] ([2] browsable assets)...
+[2025.12.10-18.21.30:813][187]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport]
+[2025.12.10-18.21.30:813][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/NewBP_EnemyTeleport]
+[2025.12.10-18.21.30:813][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/NewBP_EnemyTeleport" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/NewBP_EnemyTeleport.uasset" SILENT=true
+[2025.12.10-18.21.30:823][187]LogSavePackage: Moving output files for package: /Game/Enemies/NewBP_EnemyTeleport
+[2025.12.10-18.21.30:824][187]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/NewBP_EnemyTeleport2A125BC44C7B2E3BB613508B9267A380.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/NewBP_EnemyTeleport.uasset'
+[2025.12.10-18.21.30:830][187]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.915 ms (total: 4.95 sec)
+[2025.12.10-18.21.30:893][187]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-18.21.30:893][187]LogContentValidation: Enabled validators:
+[2025.12.10-18.21.30:893][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-18.21.30:893][187]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-18.21.30:893][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-18.21.30:893][187]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-18.21.30:893][187]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-18.21.30:893][187]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-18.21.30:893][187]AssetCheck: /Game/Enemies/NewBP_EnemyTeleport Validating asset
+[2025.12.10-18.21.31:346][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-18.21.31:377][202]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/NewBP_EnemyTeleport] ([2] browsable assets)...
+[2025.12.10-18.21.31:377][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/NewBP_EnemyTeleport]
+[2025.12.10-18.21.31:377][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/NewBP_EnemyTeleport" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/NewBP_EnemyTeleport.uasset" SILENT=true
+[2025.12.10-18.21.31:386][202]LogSavePackage: Moving output files for package: /Game/Enemies/NewBP_EnemyTeleport
+[2025.12.10-18.21.31:387][202]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/NewBP_EnemyTeleportC24F89E04BB37AD68FF05991FC38542C.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/NewBP_EnemyTeleport.uasset'
+[2025.12.10-18.21.31:393][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.156 ms (total: 4.99 sec)
+[2025.12.10-18.21.31:425][202]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-18.21.31:425][202]LogContentValidation: Enabled validators:
+[2025.12.10-18.21.31:425][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-18.21.31:425][202]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-18.21.31:425][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-18.21.31:425][202]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-18.21.31:425][202]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-18.21.31:425][202]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-18.21.31:425][202]AssetCheck: /Game/Enemies/NewBP_EnemyTeleport Validating asset
+[2025.12.10-18.21.36:124][691]LogBlueprint: Warning: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\Enemies\NewBP_EnemyTeleport.uasset: [Compiler] Could not find a variable named "Brush Size" in '/Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport_C'.
+Make sure '/Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport_C' has been compiled for  Get Brush Size
+[2025.12.10-18.21.36:125][691]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\Enemies\NewBP_EnemyTeleport.uasset: [Compiler] The property associated with  Brush Size  could not be found in '/Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport_C'
+[2025.12.10-18.21.36:219][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.12.10-18.21.36:275][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-18.21.36:304][691]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/NewBP_EnemyTeleport] ([2] browsable assets)...
+[2025.12.10-18.21.36:309][691]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport]
+[2025.12.10-18.21.36:309][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/NewBP_EnemyTeleport]
+[2025.12.10-18.21.36:309][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/NewBP_EnemyTeleport" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/NewBP_EnemyTeleport.uasset" SILENT=true
+[2025.12.10-18.21.36:319][691]LogSavePackage: Moving output files for package: /Game/Enemies/NewBP_EnemyTeleport
+[2025.12.10-18.21.36:319][691]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/NewBP_EnemyTeleport3DF580974AB9B2CC7E50EE9E4E4D1A67.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/NewBP_EnemyTeleport.uasset'
+[2025.12.10-18.21.36:325][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.744 ms (total: 5.05 sec)
+[2025.12.10-18.21.36:392][691]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-18.21.36:392][691]LogContentValidation: Enabled validators:
+[2025.12.10-18.21.36:392][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-18.21.36:392][691]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-18.21.36:392][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-18.21.36:392][691]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-18.21.36:392][691]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-18.21.36:392][691]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-18.21.36:392][691]AssetCheck: /Game/Enemies/NewBP_EnemyTeleport Validating asset
+[2025.12.10-18.21.46:650][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.12.10-18.21.46:715][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-18.21.46:747][807]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/NewBP_EnemyTeleport] ([2] browsable assets)...
+[2025.12.10-18.21.46:752][807]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/NewBP_EnemyTeleport.NewBP_EnemyTeleport]
+[2025.12.10-18.21.46:752][807]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/NewBP_EnemyTeleport]
+[2025.12.10-18.21.46:752][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/NewBP_EnemyTeleport" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/NewBP_EnemyTeleport.uasset" SILENT=true
+[2025.12.10-18.21.46:763][807]LogSavePackage: Moving output files for package: /Game/Enemies/NewBP_EnemyTeleport
+[2025.12.10-18.21.46:763][807]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/NewBP_EnemyTeleport2B6ADF77423748EE2C230BB787832B78.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/NewBP_EnemyTeleport.uasset'
+[2025.12.10-18.21.46:770][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.102 ms (total: 5.10 sec)
+[2025.12.10-18.21.46:837][807]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-18.21.46:837][807]LogContentValidation: Enabled validators:
+[2025.12.10-18.21.46:837][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-18.21.46:837][807]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-18.21.46:837][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-18.21.46:837][807]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-18.21.46:837][807]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-18.21.46:837][807]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-18.21.46:838][807]AssetCheck: /Game/Enemies/NewBP_EnemyTeleport Validating asset
+[2025.12.10-18.21.47:906][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-18.21.47:934][892]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/NewBP_EnemyTeleport] ([2] browsable assets)...
+[2025.12.10-18.21.47:934][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/NewBP_EnemyTeleport]
+[2025.12.10-18.21.47:934][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/NewBP_EnemyTeleport" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/NewBP_EnemyTeleport.uasset" SILENT=true
+[2025.12.10-18.21.47:943][892]LogSavePackage: Moving output files for package: /Game/Enemies/NewBP_EnemyTeleport
+[2025.12.10-18.21.47:943][892]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/NewBP_EnemyTeleport46DC4A2B441301E5BAF38D9079DB981B.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/Enemies/NewBP_EnemyTeleport.uasset'
+[2025.12.10-18.21.47:950][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.221 ms (total: 5.14 sec)
+[2025.12.10-18.21.47:981][892]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-18.21.47:981][892]LogContentValidation: Enabled validators:
+[2025.12.10-18.21.47:981][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-18.21.47:981][892]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-18.21.47:981][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-18.21.47:981][892]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-18.21.47:981][892]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-18.21.47:981][892]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-18.21.47:981][892]AssetCheck: /Game/Enemies/NewBP_EnemyTeleport Validating asset
+[2025.12.10-18.22.08:936][249]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 45891.757812
+[2025.12.10-18.22.09:001][256]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-18.22.09:001][256]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 45891.808594, Update Interval: 353.433624
+[2025.12.10-18.23.01:694][214]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=XV271U M3 (NVIDIA High Definition Audio), InstanceID=1
+[2025.12.10-18.23.03:786][215]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.12.10-18.23.03:786][215]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27852
+[2025.12.10-18.23.03:840][218]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.12.10-18.23.03:842][218]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{41271434-e025-40b3-8751-47483c7aec7a}, Name=XV271U M3 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=37.18
+[2025.12.10-18.23.03:842][218]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.12.10-18.23.03:843][218]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.12.10-18.23.43:184][770]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=扬声器 (2- INZONE H5 - Game), InstanceID=1
+[2025.12.10-18.23.43:361][771]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.12.10-18.23.43:361][771]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27852
+[2025.12.10-18.23.43:419][775]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.12.10-18.23.43:421][775]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{0b587a75-55dc-4ec3-b678-dbdb0c7a08b6}, Name=扬声器 (2- INZONE H5 - Game)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=49.11
+[2025.12.10-18.23.43:421][775]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2025.12.10-18.23.43:423][775]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.12.10-18.25.16:684][503]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-18.25.16:709][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.12.10-18.26.03:447][276]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-18.26.03:469][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.12.10-18.26.07:639][276]LogSlate: Window 'Save Content' being destroyed
+[2025.12.10-18.26.07:652][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-18.26.07:684][276]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/TY/D23WOGLYFNGLZVTKMPE3FO
+[2025.12.10-18.26.07:684][276]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/D23WOGLYFNGLZVTKMPE3FO094FDB4C428C416AE3CDA58EB805C0AE.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/TY/D23WOGLYFNGLZVTKMPE3FO.uasset'
+[2025.12.10-18.26.07:691][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.332 ms (total: 5.18 sec)
+[2025.12.10-18.26.07:741][277]LogContentValidation: Display: Starting to validate 5 assets
+[2025.12.10-18.26.07:742][277]LogContentValidation: Enabled validators:
+[2025.12.10-18.26.07:742][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-18.26.07:742][277]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-18.26.07:742][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-18.26.07:742][277]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-18.26.07:742][277]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-18.26.07:742][277]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-18.26.07:742][277]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.12.10-18.26.52:011][216]Cmd: DELETE
+[2025.12.10-18.26.52:011][216]Cmd: ACTOR DELETE
+[2025.12.10-18.26.52:014][216]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2025.12.10-18.26.52:032][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.12.10-18.26.52:036][216]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.12.10-18.26.52:041][216]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2025.12.10-18.27.04:490][618]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.12.10-18.27.04:490][618]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.12.10-18.27.04:497][618]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_C87F54A7606440AA02_2046219280
+[2025.12.10-18.27.04:500][618]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_C87F54A7606440AA02_2046219280
+[2025.12.10-18.27.47:062][589]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-18.27.47:094][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.12.10-18.27.48:453][589]LogSlate: Window 'Save Content' being destroyed
+[2025.12.10-18.27.48:466][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-18.27.48:517][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.12.10-18.27.48:532][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.12.10-18.27.48:546][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.12.10-18.27.48:550][589]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/M2/02KRJL1RVZZHMNXVGIEQHR
+[2025.12.10-18.27.48:550][589]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/02KRJL1RVZZHMNXVGIEQHRB910D4184CB678BF461A6BAF2A88A5DF.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/M2/02KRJL1RVZZHMNXVGIEQHR.uasset'
+[2025.12.10-18.27.48:558][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.836 ms (total: 5.27 sec)
+[2025.12.10-18.27.48:602][590]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-18.27.48:602][590]LogContentValidation: Enabled validators:
+[2025.12.10-18.27.48:603][590]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-18.27.48:603][590]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-18.27.48:603][590]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-18.27.48:603][590]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-18.27.48:603][590]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-18.27.48:603][590]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-18.27.48:603][590]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.12.10-18.27.48:612][590]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2025.12.10-18.28.25:372][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.12.10-18.28.25:451][170]LogStall: Shutdown...
+[2025.12.10-18.28.25:451][170]LogStall: Shutdown complete.
+[2025.12.10-18.28.25:686][170]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.25:687][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.26:121][170]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.10-18.28.26:121][170]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.26:121][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.26:323][170]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.10-18.28.26:323][170]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.26:323][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.26:527][170]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.10-18.28.26:527][170]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.26:527][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.26:745][170]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.26:745][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.26:754][170]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.26:754][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.26:896][170]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.10-18.28.26:896][170]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.26:896][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.27:071][170]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.27:071][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.27:281][170]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.27:281][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.27:408][170]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.27:408][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.27:416][170]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.27:416][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.27:595][170]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.27:595][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.27:604][170]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.27:605][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.27:708][170]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.27:708][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.27:718][170]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.27:718][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.27:805][170]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.27:805][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.27:815][170]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.27:815][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.27:883][170]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.10-18.28.27:883][170]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.27:883][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.27:942][170]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.10-18.28.27:942][170]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.27:942][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:013][170]LogSlate: Window 'SOAP - Unreal Editor' being destroyed
+[2025.12.10-18.28.28:014][170]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, Mainland China) - Microsoft Pinyin (TSF IME).
+[2025.12.10-18.28.28:019][170]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, Mainland China) - Microsoft Pinyin (TSF IME).
+[2025.12.10-18.28.28:377][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.12.10-18.28.28:405][170]Cmd: QUIT_EDITOR
+[2025.12.10-18.28.28:405][171]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.10-18.28.28:412][171]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.10-18.28.28:413][171]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.10-18.28.28:413][171]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.10-18.28.28:413][171]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:413][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:413][171]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.12.10-18.28.28:430][171]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.10-18.28.28:432][171]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.10-18.28.28:442][171]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:442][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:444][171]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:444][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:447][171]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:447][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:448][171]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:448][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:450][171]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:450][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:452][171]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:452][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:453][171]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:453][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:455][171]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:455][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:457][171]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:457][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:458][171]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:458][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:459][171]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:460][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:462][171]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:462][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:463][171]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:463][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:464][171]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:464][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:466][171]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:466][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:468][171]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:468][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:470][171]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:470][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:472][171]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-18.28.28:472][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-18.28.28:474][171]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.12.10-18.28.28:480][171]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.12.10-18.28.28:480][171]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.12.10-18.28.28:480][171]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.12.10-18.28.28:482][171]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.12.10-18.28.28:482][171]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.12.10-18.28.28:482][171]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2025.12.10-18.28.28:482][171]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.12.10-18.28.28:482][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.12.10-18.28.28:485][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.12.10-18.28.28:491][171]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.12.10-18.28.28:491][171]LogAudio: Display: Audio Device Manager Shutdown
+[2025.12.10-18.28.28:498][171]LogExit: Preparing to exit.
+[2025.12.10-18.28.28:522][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.12.10-18.28.28:526][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:526][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:527][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:527][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:527][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:527][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:527][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:527][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:527][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:527][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:527][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:527][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:528][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:528][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:528][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:528][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:528][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:528][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:528][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:528][171]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.28:528][171]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.10-18.28.29:427][171]LogEditorDataStorage: Deinitializing
+[2025.12.10-18.28.29:579][171]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.12.10-18.28.29:600][171]LogExit: Editor shut down
+[2025.12.10-18.28.29:603][171]LogExit: Transaction tracking system shut down
+[2025.12.10-18.28.29:799][171]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 5.
+[2025.12.10-18.28.29:820][171]LogExit: Object subsystem successfully closed.
+[2025.12.10-18.28.29:846][171]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.12.10-18.28.30:062][171]LogMemoryProfiler: Shutdown
+[2025.12.10-18.28.30:062][171]LogNetworkingProfiler: Shutdown
+[2025.12.10-18.28.30:062][171]LoadingProfiler: Shutdown
+[2025.12.10-18.28.30:063][171]LogTimingProfiler: Shutdown
+[2025.12.10-18.28.30:103][171]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.12.10-18.28.30:433][171]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.12.10-18.28.30:465][171]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.12.10-18.28.30:465][171]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBB4C25EF-471B-95CD-4A87-DB970D9513DD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=297adee8494fe401cd26b08f66528199%7Cf2dd6fd2edf74bdbb041d9360f2b4faf%7Cc0e33abf-272c-48ac-b9c6-02a049e9971d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.12.10-18.28.31:014][171]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.12.10-18.28.31:014][171]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.12.10-18.28.31:014][171]LogNFORDenoise: NFORDenoise function shutting down
+[2025.12.10-18.28.31:014][171]RenderDocPlugin: plugin has been unloaded.
+[2025.12.10-18.28.31:020][171]LogXGEController: Cleaning working directory: C:/Users/Yihang Li/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.12.10-18.28.31:023][171]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.12.10-18.28.31:023][171]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.12.10-18.28.31:023][171]LogPakFile: Destroying PakPlatformFile
+[2025.12.10-18.28.31:160][171]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.12.10-18.28.31:190][171]LogExit: Exiting.
+[2025.12.10-18.28.31:215][171]Log file closed, 12/10/25 13:28:31

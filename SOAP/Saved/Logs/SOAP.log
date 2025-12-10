@@ -3136,3 +3136,306 @@ Make sure '/Game/Enemies/BP_EnemySplitting.BP_EnemySplitting_C' has been compile
 [2025.12.10-16.12.24:632][590]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Maps/Map_Data_Control/SG_SoapProgress.SG_SoapProgress
 [2025.12.10-16.12.24:632][590]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
 [2025.12.10-16.12.24:632][590]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_32'.
+[2025.12.10-16.13.20:822][876]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38386.867188
+[2025.12.10-16.13.21:822][879]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.13.21:822][879]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38387.531250, Update Interval: 355.863525
+[2025.12.10-16.14.40:981][440]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GUI/W_LevelSelect.W_LevelSelect
+[2025.12.10-16.14.40:982][440]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2025.12.10-16.14.40:982][440]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_33'.
+[2025.12.10-16.14.40:987][440]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.12.10-16.14.40:988][440]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_34'.
+[2025.12.10-16.15.14:747][293]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GUI/W_LevelTile.W_LevelTile
+[2025.12.10-16.15.14:747][293]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.12.10-16.15.14:747][293]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_35'.
+[2025.12.10-16.15.14:753][293]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.12.10-16.15.14:753][293]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_36'.
+[2025.12.10-16.15.43:185][488]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.15.43:185][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.15.43:205][488]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.15.43:205][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.15.43:530][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.12.10-16.16.35:175][575]LogAssetEditorSubsystem: Opening Asset editor for DA_LevelList_BP_C /Game/ThirdPerson/Maps/Map_Data_Control/DA_LevelList.DA_LevelList
+[2025.12.10-16.16.51:773][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.16.51:798][530]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/Map_Data_Control/DA_LevelList] ([1] browsable assets)...
+[2025.12.10-16.16.51:798][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/Map_Data_Control/DA_LevelList]
+[2025.12.10-16.16.51:799][530]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Map_Data_Control/DA_LevelList
+[2025.12.10-16.16.51:799][530]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/DA_LevelList9B58E3B446071CA2A8C76FBBDD52BB31.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Maps/Map_Data_Control/DA_LevelList.uasset'
+[2025.12.10-16.16.51:807][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.654 ms (total: 2.15 sec)
+[2025.12.10-16.16.51:839][530]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.16.51:840][530]LogContentValidation: Enabled validators:
+[2025.12.10-16.16.51:840][530]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.16.51:840][530]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.16.51:840][530]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.16.51:840][530]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.16.51:840][530]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.16.51:840][530]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.16.51:840][530]AssetCheck: /Game/ThirdPerson/Maps/Map_Data_Control/DA_LevelList Validating asset
+[2025.12.10-16.16.53:221][694]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.12.10-16.16.53:300][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.12.10-16.16.54:274][694]LogSlate: Window 'Save Content' being destroyed
+[2025.12.10-16.16.54:281][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.16.54:309][694]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.12.10-16.16.54:309][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.12.10-16.16.54:351][694]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.12.10-16.16.54:351][694]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_ThirdPersonCharacterABC7B45A49119CEEACF156ACE9B65C21.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.12.10-16.16.54:361][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.603 ms (total: 2.23 sec)
+[2025.12.10-16.16.54:398][695]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.16.54:398][695]LogContentValidation: Enabled validators:
+[2025.12.10-16.16.54:398][695]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.16.54:398][695]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.16.54:398][695]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.16.54:398][695]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.16.54:398][695]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.16.54:398][695]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.16.54:398][695]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.12.10-16.17.48:872][540]LogSlate: External Image Picker: DecompressImage failed
+[2025.12.10-16.18.19:148][ 24]LogSlate: Window 'Project Settings' being destroyed
+[2025.12.10-16.18.19:153][ 24]LogSlate: Window 'Project Settings' being destroyed
+[2025.12.10-16.18.32:473][561]LogSlate: External Image Picker: DecompressImage failed
+[2025.12.10-16.18.50:054][575]LogSlate: Window 'Project Settings' being destroyed
+[2025.12.10-16.18.50:059][575]LogSlate: Window 'Project Settings' being destroyed
+[2025.12.10-16.19.02:619][ 61]LogStreaming: Display: FlushAsyncLoading(648): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-16.19.02:841][ 66]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.12.10-16.19.02:841][ 66]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_37'.
+[2025.12.10-16.19.02:858][ 67]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.12.10-16.19.02:858][ 67]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_38'.
+[2025.12.10-16.19.02:873][ 68]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.12.10-16.19.02:874][ 68]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_39'.
+[2025.12.10-16.19.11:345][723]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.12.10-16.19.56:050][565]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38765.050781
+[2025.12.10-16.19.57:050][569]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.19.57:050][569]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38765.718750, Update Interval: 337.942444
+[2025.12.10-16.22.53:626][822]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.12.10-16.23.06:888][101]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.12.10-16.23.06:895][101]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.12.10-16.23.06:900][101]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.12.10-16.23.06:915][102]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.12.10-16.23.12:301][749]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_LevelCard
+[2025.12.10-16.23.12:307][749]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.12.10-16.24.11:979][891]LogEditorTransaction: Undo Delete current selection
+[2025.12.10-16.24.21:531][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.12.10-16.24.21:565][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.24.21:588][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap] ([2] browsable assets)...
+[2025.12.10-16.24.21:588][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap]
+[2025.12.10-16.24.21:593][995]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap
+[2025.12.10-16.24.21:593][995]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_GameInstance_Soap8F3592F44FEAA44C373459B611D7F43B.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap.uasset'
+[2025.12.10-16.24.21:600][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.228 ms (total: 2.26 sec)
+[2025.12.10-16.24.21:625][995]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.24.21:625][995]LogContentValidation: Enabled validators:
+[2025.12.10-16.24.21:625][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.24.21:625][995]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.24.21:625][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.24.21:625][995]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.24.21:625][995]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.24.21:625][995]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.24.21:625][995]AssetCheck: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap Validating asset
+[2025.12.10-16.24.21:976][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.24.21:996][ 30]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap] ([2] browsable assets)...
+[2025.12.10-16.24.21:996][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap]
+[2025.12.10-16.24.22:001][ 30]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap
+[2025.12.10-16.24.22:002][ 30]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_GameInstance_Soap52BCB1D54B850AD68A08D6BD3EF8C923.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap.uasset'
+[2025.12.10-16.24.22:008][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.690 ms (total: 2.29 sec)
+[2025.12.10-16.24.22:030][ 30]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.24.22:030][ 30]LogContentValidation: Enabled validators:
+[2025.12.10-16.24.22:030][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.24.22:030][ 30]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.24.22:030][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.24.22:030][ 30]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.24.22:030][ 30]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.24.22:030][ 30]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.24.22:030][ 30]AssetCheck: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap Validating asset
+[2025.12.10-16.25.12:006][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.12.10-16.25.12:010][301]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GUI/MainMenu' took 0.019
+[2025.12.10-16.25.12:011][301]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_LevelCard] ([2] browsable assets)...
+[2025.12.10-16.25.12:012][301]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_LevelCard.W_LevelCard]
+[2025.12.10-16.25.12:012][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_LevelCard]
+[2025.12.10-16.25.12:014][301]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GUI/W_LevelCard_Auto4
+[2025.12.10-16.25.12:014][301]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_LevelCard_Auto451E71FC745367ACCE6D3F48B0D18F225.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/Autosaves/Game/GUI/W_LevelCard_Auto4.uasset'
+[2025.12.10-16.25.12:015][301]LogFileHelpers: Auto-saving content packages took 0.004
+[2025.12.10-16.26.19:807][745]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39136.445312
+[2025.12.10-16.26.19:891][755]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.26.19:891][755]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39136.515625, Update Interval: 313.282867
+[2025.12.10-16.27.58:133][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.12.10-16.27.58:146][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.27.58:167][367]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap] ([2] browsable assets)...
+[2025.12.10-16.27.58:167][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap]
+[2025.12.10-16.27.58:171][367]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap
+[2025.12.10-16.27.58:171][367]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_GameInstance_Soap22E6346B481C403B346798950BD69F23.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap.uasset'
+[2025.12.10-16.27.58:176][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.260 ms (total: 2.32 sec)
+[2025.12.10-16.27.58:206][367]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.27.58:206][367]LogContentValidation: Enabled validators:
+[2025.12.10-16.27.58:206][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.27.58:206][367]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.27.58:206][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.27.58:206][367]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.27.58:206][367]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.27.58:206][367]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.27.58:206][367]AssetCheck: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap Validating asset
+[2025.12.10-16.31.28:148][241]LogBlueprint: Error: [AssetLog] D:\Hub\Creative\Game_Projects\Soap\Project-SOAP\SOAP\Content\ThirdPerson\Maps\Map_Data_Control\BP_GameInstance_Soap.uasset: [Compiler] Could not find a function named "LoadProgress" in 'BP_GameInstance_Soap_C'.
+Make sure 'BP_GameInstance_Soap_C' has been compiled for  Load Progress
+[2025.12.10-16.31.28:166][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.12.10-16.31.28:184][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.31.28:207][241]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap] ([2] browsable assets)...
+[2025.12.10-16.31.28:207][241]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap]
+[2025.12.10-16.31.28:211][241]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap
+[2025.12.10-16.31.28:211][241]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_GameInstance_Soap8F9D17B84775A19230FCA999738F59D3.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap.uasset'
+[2025.12.10-16.31.28:218][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.890 ms (total: 2.36 sec)
+[2025.12.10-16.31.28:241][241]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.31.28:241][241]LogContentValidation: Enabled validators:
+[2025.12.10-16.31.28:241][241]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.31.28:241][241]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.31.28:241][241]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.31.28:241][241]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.31.28:241][241]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.31.28:241][241]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.31.28:241][241]AssetCheck: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap Validating asset
+[2025.12.10-16.31.37:123][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.12.10-16.31.37:139][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.31.37:163][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap] ([2] browsable assets)...
+[2025.12.10-16.31.37:163][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap]
+[2025.12.10-16.31.37:168][296]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap
+[2025.12.10-16.31.37:168][296]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_GameInstance_SoapF3AD26684CD3E114E20F0A927871FA3A.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap.uasset'
+[2025.12.10-16.31.37:176][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.598 ms (total: 2.40 sec)
+[2025.12.10-16.31.37:203][296]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.31.37:203][296]LogContentValidation: Enabled validators:
+[2025.12.10-16.31.37:203][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.31.37:203][296]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.31.37:203][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.31.37:203][296]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.31.37:203][296]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.31.37:203][296]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.31.37:203][296]AssetCheck: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap Validating asset
+[2025.12.10-16.31.37:774][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.31.37:796][359]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap] ([2] browsable assets)...
+[2025.12.10-16.31.37:796][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap]
+[2025.12.10-16.31.37:801][359]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap
+[2025.12.10-16.31.37:801][359]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_GameInstance_Soap8CDAAA2B4E49265B2B7A57814D6D7971.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap.uasset'
+[2025.12.10-16.31.37:808][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.136 ms (total: 2.43 sec)
+[2025.12.10-16.31.37:829][359]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.31.37:829][359]LogContentValidation: Enabled validators:
+[2025.12.10-16.31.37:829][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.31.37:829][359]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.31.37:829][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.31.37:829][359]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.31.37:829][359]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.31.37:829][359]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.31.37:829][359]AssetCheck: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap Validating asset
+[2025.12.10-16.32.07:058][855]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39463.183594
+[2025.12.10-16.32.07:127][862]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.32.07:127][862]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39463.246094, Update Interval: 338.691376
+[2025.12.10-16.33.09:998][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.12.10-16.33.10:013][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.33.10:039][281]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap] ([2] browsable assets)...
+[2025.12.10-16.33.10:039][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap]
+[2025.12.10-16.33.10:046][281]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap
+[2025.12.10-16.33.10:046][281]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_GameInstance_Soap73180288442D12D40C1552BE8E7D3148.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap.uasset'
+[2025.12.10-16.33.10:053][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.910 ms (total: 2.47 sec)
+[2025.12.10-16.33.10:083][281]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.33.10:083][281]LogContentValidation: Enabled validators:
+[2025.12.10-16.33.10:083][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.33.10:083][281]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.33.10:083][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.33.10:083][281]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.33.10:083][281]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.33.10:083][281]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.33.10:083][281]AssetCheck: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap Validating asset
+[2025.12.10-16.33.10:534][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.33.10:562][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap] ([2] browsable assets)...
+[2025.12.10-16.33.10:562][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap]
+[2025.12.10-16.33.10:568][328]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap
+[2025.12.10-16.33.10:568][328]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_GameInstance_SoapA88CAA234F3C8ABBF7C1F3967B3C708F.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap.uasset'
+[2025.12.10-16.33.10:573][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.385 ms (total: 2.51 sec)
+[2025.12.10-16.33.10:595][328]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.33.10:595][328]LogContentValidation: Enabled validators:
+[2025.12.10-16.33.10:595][328]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.33.10:595][328]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.33.10:595][328]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.33.10:595][328]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.33.10:595][328]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.33.10:595][328]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.33.10:595][328]AssetCheck: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap Validating asset
+[2025.12.10-16.35.22:937][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.12.10-16.35.22:940][531]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GUI/MainMenu' took 0.020
+[2025.12.10-16.35.22:941][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap] ([2] browsable assets)...
+[2025.12.10-16.35.22:941][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap]
+[2025.12.10-16.35.22:946][531]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap_Auto5
+[2025.12.10-16.35.22:946][531]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_GameInstance_Soap_Auto56BE641594B6F975863B893B1F06C0A37.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/Autosaves/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap_Auto5.uasset'
+[2025.12.10-16.35.22:946][531]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.12.10-16.38.38:127][774]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39838.550781
+[2025.12.10-16.38.38:202][783]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.38.38:202][783]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39838.613281, Update Interval: 313.033844
+[2025.12.10-16.39.20:751][844]LogDerivedDataCache: C:/Users/Yihang Li/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.10-16.40.51:343][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.10-16.40.51:372][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.40.51:399][727]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap] ([2] browsable assets)...
+[2025.12.10-16.40.51:399][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap]
+[2025.12.10-16.40.51:406][727]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap
+[2025.12.10-16.40.51:406][727]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_GameInstance_SoapF708609F4D8A0AAFE1C5249A7859226D.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap.uasset'
+[2025.12.10-16.40.51:415][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.491 ms (total: 2.55 sec)
+[2025.12.10-16.40.51:446][727]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.40.51:447][727]LogContentValidation: Enabled validators:
+[2025.12.10-16.40.51:447][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.40.51:447][727]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.40.51:447][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.40.51:447][727]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.40.51:447][727]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.40.51:447][727]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.40.51:447][727]AssetCheck: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap Validating asset
+[2025.12.10-16.40.51:871][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.40.51:896][769]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap] ([2] browsable assets)...
+[2025.12.10-16.40.51:896][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap]
+[2025.12.10-16.40.51:903][769]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap
+[2025.12.10-16.40.51:903][769]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/BP_GameInstance_Soap3DD56FB8476050B8B8EAB2BF3F61B561.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap.uasset'
+[2025.12.10-16.40.51:910][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.421 ms (total: 2.59 sec)
+[2025.12.10-16.40.51:936][769]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.40.51:936][769]LogContentValidation: Enabled validators:
+[2025.12.10-16.40.51:936][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.40.51:936][769]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.40.51:936][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.40.51:936][769]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.40.51:936][769]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.40.51:936][769]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.40.51:936][769]AssetCheck: /Game/ThirdPerson/Maps/Map_Data_Control/BP_GameInstance_Soap Validating asset
+[2025.12.10-16.44.09:481][469]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GUI/W_MainMenu.W_MainMenu
+[2025.12.10-16.44.09:482][469]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.12.10-16.44.09:482][469]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_40'.
+[2025.12.10-16.44.09:487][469]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.12.10-16.44.09:487][469]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_41'.
+[2025.12.10-16.44.30:736][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.44.30:753][941]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_MainMenu] ([2] browsable assets)...
+[2025.12.10-16.44.30:755][941]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_MainMenu.W_MainMenu]
+[2025.12.10-16.44.30:755][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_MainMenu]
+[2025.12.10-16.44.30:755][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_MainMenu" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_MainMenu.uasset" SILENT=true
+[2025.12.10-16.44.30:764][941]LogSavePackage: Moving output files for package: /Game/GUI/W_MainMenu
+[2025.12.10-16.44.30:764][941]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_MainMenu7DFC2327499F4F6C44ECEFB56FFBEE73.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_MainMenu.uasset'
+[2025.12.10-16.44.30:772][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.087 ms (total: 2.62 sec)
+[2025.12.10-16.44.30:791][941]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.44.30:791][941]LogContentValidation: Enabled validators:
+[2025.12.10-16.44.30:791][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.44.30:791][941]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.44.30:791][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.44.30:791][941]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.44.30:791][941]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.44.30:791][941]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.44.30:792][941]AssetCheck: /Game/GUI/W_MainMenu Validating asset
+[2025.12.10-16.44.31:081][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.12.10-16.44.31:812][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.44.31:831][ 24]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/W_MainMenu] ([2] browsable assets)...
+[2025.12.10-16.44.31:833][ 24]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/W_MainMenu.W_MainMenu]
+[2025.12.10-16.44.31:833][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/W_MainMenu]
+[2025.12.10-16.44.31:833][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/W_MainMenu" FILE="../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_MainMenu.uasset" SILENT=true
+[2025.12.10-16.44.31:841][ 24]LogSavePackage: Moving output files for package: /Game/GUI/W_MainMenu
+[2025.12.10-16.44.31:842][ 24]LogSavePackage: Moving '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Saved/W_MainMenuF93F3E304E22CD4579989396CC95A3A1.tmp' to '../../../../../../Hub/Creative/Game_Projects/Soap/Project-SOAP/SOAP/Content/GUI/W_MainMenu.uasset'
+[2025.12.10-16.44.31:850][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.599 ms (total: 2.66 sec)
+[2025.12.10-16.44.31:875][ 24]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.44.31:875][ 24]LogContentValidation: Enabled validators:
+[2025.12.10-16.44.31:875][ 24]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.44.31:875][ 24]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.44.31:875][ 24]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.44.31:875][ 24]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.44.31:875][ 24]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.44.31:875][ 24]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.44.31:876][ 24]AssetCheck: /Game/GUI/W_MainMenu Validating asset
+[2025.12.10-16.44.35:236][422]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40185.636719
+[2025.12.10-16.44.35:310][431]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.44.35:310][431]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40185.699219, Update Interval: 309.657288

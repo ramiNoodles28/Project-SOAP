@@ -1,10 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Github\\Project-SOAP\\SOAP\\Intermediate\\Source\\SOAP.Build.cs",
-		"D:\\Github\\Project-SOAP\\SOAP\\Intermediate\\Source\\SOAP.Target.cs",
-		"D:\\Github\\Project-SOAP\\SOAP\\Intermediate\\Source\\SOAPClient.Target.cs",
-		"D:\\Github\\Project-SOAP\\SOAP\\Intermediate\\Source\\SOAPEditor.Target.cs",
-		"D:\\Github\\Project-SOAP\\SOAP\\Intermediate\\Source\\SOAPServer.Target.cs"
+		"C:\\Users\\the_h\\Documents\\Purdue HW\\cgt 365\\Project-SOAP\\SOAP\\Source\\SOAP\\SOAP.Build.cs",
+		"C:\\Users\\the_h\\Documents\\Purdue HW\\cgt 365\\Project-SOAP\\SOAP\\Source\\SOAP.Target.cs",
+		"C:\\Users\\the_h\\Documents\\Purdue HW\\cgt 365\\Project-SOAP\\SOAP\\Source\\SOAPEditor.Target.cs"
 	],
 	"EngineVersion": "5.5.4"
 }

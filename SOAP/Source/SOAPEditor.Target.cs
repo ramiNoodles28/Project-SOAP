@@ -3,7 +3,7 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class SOAPTarget : TargetRules
+public class SOAPEditorTarget : TargetRules
 {
 	public SOAPEditorTarget( TargetInfo Target) : base(Target)
 	{

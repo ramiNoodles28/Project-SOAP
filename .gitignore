@@ -2,3 +2,8 @@
 /SOAP/Saved/
 /SOAP/Intermediate/
 /SOAP/DerivedDataCache/
+/SOAP/Binaries/
+
+.vs/
+*.log
+.idea/

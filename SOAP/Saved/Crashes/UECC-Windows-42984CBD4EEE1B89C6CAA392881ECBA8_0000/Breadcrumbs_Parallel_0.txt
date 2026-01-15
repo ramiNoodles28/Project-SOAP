@@ -1,6 +1,0 @@
-Breadcrumbs 'Parallel'
- - ParallelDraw (Index: 0, Num: 1)
- - PrePass DDM_AllOpaqueNoVelocity (Forced by DBuffer)
- - Scene
- - FRDGBuilder::Execute
- - Frame 15

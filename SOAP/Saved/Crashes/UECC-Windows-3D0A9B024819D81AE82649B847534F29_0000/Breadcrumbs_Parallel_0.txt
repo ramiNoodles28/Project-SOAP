@@ -1,7 +1,0 @@
-Breadcrumbs 'Parallel'
- - ParallelDraw (Index: 0, Num: 8)
- - BasePass
- - Scene
- - CubeMapCapture
- - FRDGBuilder::Execute
- - Frame 714

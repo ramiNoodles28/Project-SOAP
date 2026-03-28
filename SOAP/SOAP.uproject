@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.5",
+	"EngineAssociation": "{4B5B6969-4685-C465-6C9D-4C8546001A4D}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -28,6 +28,25 @@
 		{
 			"Name": "RawInput",
 			"Enabled": true
+<<<<<<< HEAD
+=======
+		},
+		{
+			"Name": "Avalanche",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		},
+		{
+			"Name": "WinDualShock",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+>>>>>>> NewBuildBranch
 		}
 	],
 	"TargetPlatforms": [
